@@ -15,4 +15,8 @@ Week 2 assignment:
 
         I did struggle a bit with finding smart ways to identify errors and the many different scenarios quickly made my code hard to manage.
 
+    Exercise 4:
+        Run housing_prices_analysis.py to print first 10 rows of the dataset and average price by region.
+        Three different groupings are plotted.
+
 

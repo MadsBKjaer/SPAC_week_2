@@ -1,8 +1,3 @@
-sorting_method: str = input(
-    "Accepts 'a' for alphabetical sorting and 'l' for sorting by length or 'al' for both."
-)
-
-
 def sort_names(sorting_method: str, filename: str = "Data/Navne_liste.txt") -> None:
     if sorting_method not in ["a", "l", "al"]:
         print("Error: Invalid sorting method!")
@@ -25,4 +20,7 @@ def sort_names(sorting_method: str, filename: str = "Data/Navne_liste.txt") -> N
 
 
 if __name__ == "__main__":
+    sorting_method: str = input(
+        "Accepts 'a' for alphabetical sorting and 'l' for sorting by length or 'al' for both. "
+    )
     sort_names(sorting_method=sorting_method)
