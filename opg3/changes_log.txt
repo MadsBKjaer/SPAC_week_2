@@ -1,0 +1,1885 @@
+Line     1 changes: Empty cell: Removed 1 cell(s). 
+Line     4 changes: Empty cell: Removed line.
+Line     5 changes: Empty cell: Removed line.
+Line     6 changes: Id: 'nan' -> '6'. 
+Line    11 changes: Empty cell: Removed 1 cell(s). 
+Line    15 changes: Name: '  James Farmer   ' -> 'James Farmer'. 
+Line    22 changes: Empty cell: Removed 1 cell(s). Purchase amount: '-834.03' -> '834.03'. 
+Line    26 changes: Empty cell: Removed line.
+Line    27 changes: Name: '  Charlotte Hahn   ' -> 'Charlotte Hahn'. 
+Line    29 changes: Empty cell: Removed 1 cell(s). 
+Line    37 changes: Purchase amount: 'ABC123' -> ''''. 
+Line    38 changes: Id: '-463' -> '38'. 
+Line    39 changes: Empty cell: Removed line.
+Line    59 changes: Name: '  James Bryant   ' -> 'James Bryant'. 
+Line    69 changes: Id: '' -> '69'. 
+Line    79 changes: Empty cell: Removed 1 cell(s). 
+Line    81 changes: Empty cell: Removed 1 cell(s). 
+Line    92 changes: Mail: 'gary.hendrixyahoo.com' -> 'gary.hendrix@yahoo.com'. 
+Line    93 changes: Empty cell: Removed 1 cell(s). 
+Line    96 changes: Id: 'nan' -> '96'. 
+Line    98 changes: Empty cell: Removed line.
+Line   104 changes: Empty cell: Removed 1 cell(s). 
+Line   105 changes: Name: '  Patricia Johnson   ' -> 'Patricia Johnson'. 
+Line   106 changes: Purchase amount: 'ABC123' -> ''''. 
+Line   108 changes: Empty cell: Removed line.
+Line   115 changes: Empty cell: Removed line.
+Line   116 changes: Empty cell: Removed 1 cell(s). 
+Line   118 changes: Empty cell: Removed line.
+Line   119 changes: Empty cell: Removed line.
+Line   120 changes: Name: '  Alexis Reeves   ' -> 'Alexis Reeves'. 
+Line   126 changes: Empty cell: Removed 1 cell(s). 
+Line   127 changes: Name: '  Angela Mcclain   ' -> 'Angela Mcclain'. 
+Line   139 changes: Id: '' -> '139'. 
+Line   150 changes: Empty cell: Removed 1 cell(s). 
+Line   162 changes: Purchase amount: 'ABC123' -> ''''. 
+Line   168 changes: Id: 'nan' -> '168'. 
+Line   172 changes: Id: 'nan' -> '172'. Mail: 'jennifer.whitehotmail.com' -> 'jennifer.white@hotmail.com'. 
+Line   187 changes: Id: '' -> '187'. 
+Line   190 changes: Mail: 'samuel.williamshotmail.com' -> 'samuel.williams@hotmail.com'. 
+Line   196 changes: Id: 'nan' -> '196'. 
+Line   199 changes: Empty cell: Removed 1 cell(s). 
+Line   201 changes: Id: '-59' -> '201'. 
+Line   206 changes: Empty cell: Removed line.
+Line   213 changes: Empty cell: Removed 1 cell(s). 
+Line   216 changes: Id: 'nan' -> '216'. 
+Line   219 changes: Id: '37' -> '219'. 
+Line   232 changes: Mail: 'patty.walkerhotmail.com' -> 'patty.walker@hotmail.com'. 
+Line   238 changes: Id: '10' -> '238'. 
+Line   239 changes: Empty cell: Removed line.
+Line   245 changes: Empty cell: Removed line.
+Line   258 changes: Mail: 'tiffany.thomasyahoo.com' -> 'tiffany.thomas@yahoo.com'. 
+Line   263 changes: Empty cell: Removed line.
+Line   264 changes: Empty cell: Removed 1 cell(s). Purchase amount: 'ABC123' -> ''''. 
+Line   275 changes: Id: 'nan' -> '275'. 
+Line   276 changes: Id: '' -> '276'. 
+Line   279 changes: Empty cell: Removed 1 cell(s). 
+Line   285 changes: Id: 'nan' -> '285'. 
+Line   287 changes: Empty cell: Removed 1 cell(s). 
+Line   290 changes: Id: '51' -> '290'. 
+Line   296 changes: Id: '-586' -> '296'. 
+Line   305 changes: Empty cell: Removed line.
+Line   308 changes: Name: '  James White   ' -> 'James White'. 
+Line   311 changes: Empty cell: Removed 1 cell(s). 
+Line   325 changes: Mail: 'jennifer.rodriguezgmail.com' -> 'jennifer.rodriguez@gmail.com'. 
+Line   343 changes: Purchase amount: '-496.78' -> '496.78'. 
+Line   345 changes: Empty cell: Removed 1 cell(s). 
+Line   348 changes: Empty cell: Removed line.
+Line   362 changes: Empty cell: Removed line.
+Line   363 changes: Name: '  Monica Leach   ' -> 'Monica Leach'. 
+Line   365 changes: Empty cell: Removed 1 cell(s). 
+Line   367 changes: Purchase amount: '-673.67' -> '673.67'. 
+Line   370 changes: Empty cell: Removed line.
+Line   372 changes: Purchase amount: 'ABC123' -> ''''. 
+Line   381 changes: Empty cell: Removed line.
+Line   382 changes: Empty cell: Removed 1 cell(s). Purchase amount: 'ABC123' -> ''''. 
+Line   395 changes: Empty cell: Removed 1 cell(s). 
+Line   407 changes: Purchase amount: 'ABC123' -> ''''. 
+Line   417 changes: Empty cell: Removed line.
+Line   418 changes: Empty cell: Removed line.
+Line   422 changes: Id: '' -> '422'. 
+Line   426 changes: Name: '  Susan Washington   ' -> 'Susan Washington'. 
+Line   427 changes: Id: 'nan' -> '427'. 
+Line   440 changes: Empty cell: Removed line.
+Line   444 changes: Empty cell: Removed line.
+Line   447 changes: Name: '  Michelle Dennis   ' -> 'Michelle Dennis'. 
+Line   450 changes: Purchase amount: 'ABC123' -> ''''. 
+Line   464 changes: Id: '-130' -> '464'. 
+Line   474 changes: Mail: 'heather.thompsongmail.com' -> 'heather.thompson@gmail.com'. 
+Line   481 changes: Purchase amount: '-860.9' -> '860.9'. 
+Line   482 changes: Empty cell: Removed line.
+Line   488 changes: Id: '162' -> '488'. 
+Line   497 changes: Empty cell: Removed 1 cell(s). 
+Line   502 changes: Empty cell: Removed line.
+Line   503 changes: Empty cell: Removed line.
+Line   504 changes: Empty cell: Removed line.
+Line   510 changes: Empty cell: Removed 1 cell(s). 
+Line   533 changes: Purchase amount: '-532.79' -> '532.79'. 
+Line   542 changes: Id: '-585' -> '542'. 
+Line   550 changes: Empty cell: Removed 1 cell(s). 
+Line   554 changes: Mail: 'gary.mitchellhotmail.com' -> 'gary.mitchell@hotmail.com'. 
+Line   566 changes: Name: '  Andrea Cunningham   ' -> 'Andrea Cunningham'. 
+Line   567 changes: Id: '116' -> '567'. 
+Line   568 changes: Empty cell: Removed line.
+Line   572 changes: Empty cell: Removed line.
+Line   573 changes: Empty cell: Removed line.
+Line   575 changes: Id: 'nan' -> '575'. 
+Line   579 changes: Empty cell: Removed line.
+Line   581 changes: Purchase amount: '-18.82' -> '18.82'. 
+Line   585 changes: Empty cell: Removed 1 cell(s). 
+Line   586 changes: Empty cell: Removed 1 cell(s). 
+Line   587 changes: Name: '  Mary Gibson   ' -> 'Mary Gibson'. 
+Line   589 changes: Purchase amount: '-527.89' -> '527.89'. 
+Line   596 changes: Purchase amount: 'ABC123' -> ''''. 
+Line   598 changes: Empty cell: Removed line.
+Line   600 changes: Empty cell: Removed line.
+Line   613 changes: Empty cell: Removed line.
+Line   614 changes: Mail: 'lisa.ramirezyahoo.com' -> 'lisa.ramirez@yahoo.com'. 
+Line   619 changes: Empty cell: Removed 1 cell(s). 
+Line   631 changes: Id: '' -> '631'. 
+Line   633 changes: Id: '111' -> '633'. 
+Line   635 changes: Empty cell: Removed line.
+Line   644 changes: Empty cell: Removed line.
+Line   649 changes: Id: '-15' -> '649'. 
+Line   651 changes: Id: '' -> '651'. 
+Line   662 changes: Purchase amount: 'ABC123' -> ''''. 
+Line   666 changes: Empty cell: Removed 1 cell(s). 
+Line   679 changes: Name: '  Ryan Ortiz   ' -> 'Ryan Ortiz'. 
+Line   680 changes: Empty cell: Removed 1 cell(s). 
+Line   687 changes: Mail: 'timothy.floreshotmail.com' -> 'timothy.flores@hotmail.com'. 
+Line   688 changes: Empty cell: Removed line.
+Line   690 changes: Empty cell: Removed line.
+Line   698 changes: Empty cell: Removed 1 cell(s). Id: '-216' -> '698'. 
+Line   701 changes: Id: '' -> '701'. 
+Line   702 changes: Empty cell: Removed line.
+Line   704 changes: Id: '-228' -> '704'. 
+Line   712 changes: Id: 'nan' -> '712'. 
+Line   719 changes: Purchase amount: 'ABC123' -> ''''. 
+Line   728 changes: Empty cell: Removed line.
+Line   736 changes: Empty cell: Removed line.
+Line   737 changes: Empty cell: Removed 1 cell(s). 
+Line   741 changes: Id: '298' -> '741'. 
+Line   742 changes: Mail: 'jessica.reedgmail.com' -> 'jessica.reed@gmail.com'. Purchase amount: '-511.62' -> '511.62'. 
+Line   746 changes: Id: '' -> '746'. 
+Line   748 changes: Empty cell: Removed line.
+Line   751 changes: Empty cell: Removed line.
+Line   759 changes: Empty cell: Removed line.
+Line   767 changes: Empty cell: Removed 1 cell(s). 
+Line   773 changes: Empty cell: Removed line.
+Line   785 changes: Empty cell: Removed line.
+Line   786 changes: Empty cell: Removed line.
+Line   794 changes: Empty cell: Removed line.
+Line   796 changes: Id: '-629' -> '796'. 
+Line   805 changes: Name: '  Sarah Cooper   ' -> 'Sarah Cooper'. 
+Line   807 changes: Mail: 'olivia.garciahotmail.com' -> 'olivia.garcia@hotmail.com'. 
+Line   818 changes: Purchase amount: '-940.66' -> '940.66'. 
+Line   819 changes: Empty cell: Removed 1 cell(s). 
+Line   829 changes: Empty cell: Removed line.
+Line   842 changes: Empty cell: Removed 1 cell(s). Id: '' -> '842'. 
+Line   846 changes: Empty cell: Removed 1 cell(s). 
+Line   849 changes: Empty cell: Removed line.
+Line   854 changes: Mail: 'edward.harperhotmail.com' -> 'edward.harper@hotmail.com'. 
+Line   855 changes: Mail: 'clifford.parkergmail.com' -> 'clifford.parker@gmail.com'. Purchase amount: '-308.58' -> '308.58'. 
+Line   860 changes: Empty cell: Removed line.
+Line   864 changes: Id: 'nan' -> '864'. 
+Line   865 changes: Mail: 'brandon.jarvisyahoo.com' -> 'brandon.jarvis@yahoo.com'. 
+Line   871 changes: Purchase amount: 'ABC123' -> ''''. 
+Line   876 changes: Empty cell: Removed line.
+Line   883 changes: Empty cell: Removed 1 cell(s). 
+Line   886 changes: Purchase amount: 'ABC123' -> ''''. 
+Line   888 changes: Id: 'nan' -> '888'. 
+Line   901 changes: Id: 'nan' -> '901'. 
+Line   902 changes: Id: 'nan' -> '902'. 
+Line   909 changes: Empty cell: Removed 1 cell(s). 
+Line   916 changes: Empty cell: Removed line.
+Line   918 changes: Empty cell: Removed line.
+Line   926 changes: Mail: 'emily.ryanhotmail.com' -> 'emily.ryan@hotmail.com'. 
+Line   927 changes: Empty cell: Removed 1 cell(s). 
+Line   930 changes: Id: 'nan' -> '930'. 
+Line   931 changes: Mail: 'ernest.cranehotmail.com' -> 'ernest.crane@hotmail.com'. 
+Line   932 changes: Empty cell: Removed 1 cell(s). 
+Line   935 changes: Purchase amount: '-426.24' -> '426.24'. 
+Line   940 changes: Empty cell: Removed 1 cell(s). 
+Line   948 changes: Purchase amount: '-941.85' -> '941.85'. 
+Line   957 changes: Id: '' -> '957'. 
+Line   966 changes: Empty cell: Removed 1 cell(s). 
+Line   972 changes: Purchase amount: 'ABC123' -> ''''. 
+Line   978 changes: Id: '405' -> '978'. 
+Line   979 changes: Id: '-866' -> '979'. 
+Line   994 changes: Empty cell: Removed line.
+Line  1000 changes: Id: '881' -> '1000'. Name: '  Joseph Petty   ' -> 'Joseph Petty'. 
+Line  1001 changes: Purchase amount: '-285.95' -> '285.95'. 
+Line  1002 changes: Mail: 'tamara.hartmanhotmail.com' -> 'tamara.hartman@hotmail.com'. 
+Line  1008 changes: Id: '-647' -> '1008'. 
+Line  1014 changes: Empty cell: Removed line.
+Line  1019 changes: Empty cell: Removed 1 cell(s). 
+Line  1021 changes: Id: 'nan' -> '1021'. 
+Line  1035 changes: Name: '  Stacey Martin   ' -> 'Stacey Martin'. 
+Line  1037 changes: Empty cell: Removed line.
+Line  1048 changes: Empty cell: Removed line.
+Line  1066 changes: Empty cell: Removed line.
+Line  1071 changes: Mail: 'ashley.owenshotmail.com' -> 'ashley.owens@hotmail.com'. 
+Line  1073 changes: Name: '  James Johnson   ' -> 'James Johnson'. 
+Line  1075 changes: Name: '  Todd Harper   ' -> 'Todd Harper'. 
+Line  1088 changes: Id: 'nan' -> '1088'. 
+Line  1104 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  1106 changes: Empty cell: Removed 1 cell(s). 
+Line  1118 changes: Id: '733' -> '1118'. 
+Line  1121 changes: Name: '  Joshua Pena   ' -> 'Joshua Pena'. 
+Line  1123 changes: Empty cell: Removed 1 cell(s). 
+Line  1140 changes: Id: '749' -> '1140'. 
+Line  1141 changes: Id: '1059' -> '1141'. 
+Line  1144 changes: Empty cell: Removed 1 cell(s). 
+Line  1148 changes: Empty cell: Removed line.
+Line  1151 changes: Empty cell: Removed 1 cell(s). 
+Line  1154 changes: Empty cell: Removed 1 cell(s). 
+Line  1175 changes: Name: '  Morgan Wilson   ' -> 'Morgan Wilson'. 
+Line  1180 changes: Empty cell: Removed line.
+Line  1182 changes: Empty cell: Removed line.
+Line  1184 changes: Empty cell: Removed 1 cell(s). 
+Line  1192 changes: Empty cell: Removed 1 cell(s). Id: '333' -> '1192'. 
+Line  1196 changes: Empty cell: Removed 1 cell(s). 
+Line  1201 changes: Empty cell: Removed line.
+Line  1205 changes: Id: '764' -> '1205'. 
+Line  1207 changes: Id: '' -> '1207'. 
+Line  1210 changes: Empty cell: Removed 1 cell(s). 
+Line  1213 changes: Empty cell: Removed line.
+Line  1215 changes: Name: '  Brandon Gray   ' -> 'Brandon Gray'. 
+Line  1217 changes: Empty cell: Removed line.
+Line  1219 changes: Empty cell: Removed line.
+Line  1222 changes: Id: '' -> '1222'. 
+Line  1227 changes: Empty cell: Removed line.
+Line  1234 changes: Empty cell: Removed line.
+Line  1241 changes: Id: '' -> '1241'. 
+Line  1242 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  1249 changes: Id: '-387' -> '1249'. 
+Line  1253 changes: Empty cell: Removed 1 cell(s). 
+Line  1263 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  1271 changes: Empty cell: Removed 1 cell(s). 
+Line  1275 changes: Id: '-220' -> '1275'. 
+Line  1278 changes: Mail: 'natasha.howardgmail.com' -> 'natasha.howard@gmail.com'. 
+Line  1288 changes: Purchase amount: '-67.62' -> '67.62'. 
+Line  1292 changes: Id: '' -> '1292'. 
+Line  1294 changes: Empty cell: Removed line.
+Line  1297 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  1300 changes: Name: '  Patricia Hickman   ' -> 'Patricia Hickman'. 
+Line  1304 changes: Id: '' -> '1304'. 
+Line  1305 changes: Id: '-119' -> '1305'. 
+Line  1306 changes: Mail: 'zachary.thompsongmail.com' -> 'zachary.thompson@gmail.com'. 
+Line  1307 changes: Empty cell: Removed line.
+Line  1311 changes: Id: '-322' -> '1311'. 
+Line  1333 changes: Empty cell: Removed line.
+Line  1337 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  1338 changes: Empty cell: Removed 1 cell(s). 
+Line  1346 changes: Id: '' -> '1346'. 
+Line  1351 changes: Empty cell: Removed 1 cell(s). 
+Line  1353 changes: Empty cell: Removed line.
+Line  1354 changes: Mail: 'kevin.webbgmail.com' -> 'kevin.webb@gmail.com'. 
+Line  1364 changes: Name: '  Jason Marshall   ' -> 'Jason Marshall'. 
+Line  1365 changes: Empty cell: Removed 1 cell(s). 
+Line  1380 changes: Empty cell: Removed line.
+Line  1381 changes: Id: '-837' -> '1381'. 
+Line  1396 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  1400 changes: Empty cell: Removed line.
+Line  1405 changes: Purchase amount: '-238.08' -> '238.08'. 
+Line  1417 changes: Purchase amount: '-773.04' -> '773.04'. 
+Line  1421 changes: Mail: 'kristin.johnstonhotmail.com' -> 'kristin.johnston@hotmail.com'. 
+Line  1426 changes: Empty cell: Removed 1 cell(s). 
+Line  1436 changes: Name: '  Heidi Stewart   ' -> 'Heidi Stewart'. 
+Line  1439 changes: Purchase amount: '-373.55' -> '373.55'. 
+Line  1440 changes: Empty cell: Removed line.
+Line  1473 changes: Empty cell: Removed 1 cell(s). 
+Line  1475 changes: Empty cell: Removed line.
+Line  1481 changes: Empty cell: Removed line.
+Line  1488 changes: Name: '  James Watkins   ' -> 'James Watkins'. 
+Line  1491 changes: Mail: 'timothy.reynoldshotmail.com' -> 'timothy.reynolds@hotmail.com'. 
+Line  1493 changes: Empty cell: Removed 1 cell(s). 
+Line  1494 changes: Id: '-684' -> '1494'. 
+Line  1497 changes: Empty cell: Removed 1 cell(s). 
+Line  1498 changes: Id: 'nan' -> '1498'. 
+Line  1505 changes: Empty cell: Removed line.
+Line  1511 changes: Empty cell: Removed line.
+Line  1520 changes: Empty cell: Removed 1 cell(s). 
+Line  1522 changes: Empty cell: Removed 1 cell(s). 
+Line  1523 changes: Empty cell: Removed 1 cell(s). 
+Line  1526 changes: Id: '-603' -> '1526'. 
+Line  1529 changes: Purchase amount: '-867.05' -> '867.05'. 
+Line  1532 changes: Empty cell: Removed line.
+Line  1548 changes: Id: 'nan' -> '1548'. 
+Line  1553 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  1557 changes: Empty cell: Removed line.
+Line  1560 changes: Empty cell: Removed line.
+Line  1561 changes: Empty cell: Removed line.
+Line  1565 changes: Empty cell: Removed line.
+Line  1566 changes: Purchase amount: '-674.36' -> '674.36'. 
+Line  1572 changes: Empty cell: Removed line.
+Line  1575 changes: Empty cell: Removed line.
+Line  1596 changes: Purchase amount: '-130.47' -> '130.47'. 
+Line  1597 changes: Empty cell: Removed 1 cell(s). 
+Line  1602 changes: Empty cell: Removed line.
+Line  1605 changes: Empty cell: Removed 1 cell(s). 
+Line  1618 changes: Empty cell: Removed line.
+Line  1620 changes: Empty cell: Removed line.
+Line  1629 changes: Empty cell: Removed 1 cell(s). 
+Line  1631 changes: Empty cell: Removed 1 cell(s). 
+Line  1632 changes: Id: '312' -> '1632'. 
+Line  1642 changes: Id: 'nan' -> '1642'. Name: '  Sergio Brown   ' -> 'Sergio Brown'. 
+Line  1648 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  1657 changes: Empty cell: Removed 1 cell(s). 
+Line  1671 changes: Id: 'nan' -> '1671'. 
+Line  1678 changes: Empty cell: Removed 1 cell(s). 
+Line  1691 changes: Empty cell: Removed 1 cell(s). Id: 'nan' -> '1691'. 
+Line  1692 changes: Id: '' -> '1692'. 
+Line  1693 changes: Empty cell: Removed line.
+Line  1696 changes: Empty cell: Removed 1 cell(s). 
+Line  1697 changes: Empty cell: Removed 1 cell(s). 
+Line  1701 changes: Empty cell: Removed 1 cell(s). Name: '  Sally Davis   ' -> 'Sally Davis'. 
+Line  1705 changes: Empty cell: Removed 1 cell(s). Purchase amount: 'ABC123' -> ''''. 
+Line  1706 changes: Mail: 'timothy.wallaceyahoo.com' -> 'timothy.wallace@yahoo.com'. 
+Line  1726 changes: Name: '  Aimee Stewart   ' -> 'Aimee Stewart'. 
+Line  1732 changes: Empty cell: Removed 1 cell(s). 
+Line  1737 changes: Empty cell: Removed line.
+Line  1742 changes: Empty cell: Removed 1 cell(s). 
+Line  1744 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  1749 changes: Empty cell: Removed line.
+Line  1759 changes: Id: 'nan' -> '1759'. 
+Line  1763 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  1765 changes: Purchase amount: '-389.18' -> '389.18'. 
+Line  1769 changes: Empty cell: Removed line.
+Line  1770 changes: Purchase amount: '-647.56' -> '647.56'. 
+Line  1771 changes: Id: 'nan' -> '1771'. 
+Line  1772 changes: Mail: 'benjamin.martingmail.com' -> 'benjamin.martin@gmail.com'. 
+Line  1783 changes: Empty cell: Removed line.
+Line  1784 changes: Empty cell: Removed line.
+Line  1789 changes: Mail: 'charles.mccarthyyahoo.com' -> 'charles.mccarthy@yahoo.com'. 
+Line  1806 changes: Id: '' -> '1806'. 
+Line  1810 changes: Empty cell: Removed 1 cell(s). 
+Line  1819 changes: Id: 'nan' -> '1819'. 
+Line  1823 changes: Empty cell: Removed line.
+Line  1825 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  1827 changes: Empty cell: Removed line.
+Line  1832 changes: Name: '  Michael Clark   ' -> 'Michael Clark'. 
+Line  1838 changes: Empty cell: Removed 1 cell(s). 
+Line  1845 changes: Purchase amount: '-81.58' -> '81.58'. 
+Line  1850 changes: Empty cell: Removed 1 cell(s). 
+Line  1853 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  1855 changes: Purchase amount: '-144.83' -> '144.83'. 
+Line  1859 changes: Empty cell: Removed line.
+Line  1863 changes: Id: '-976' -> '1863'. 
+Line  1864 changes: Id: '1532' -> '1864'. 
+Line  1871 changes: Empty cell: Removed line.
+Line  1880 changes: Id: '-391' -> '1880'. 
+Line  1889 changes: Empty cell: Removed 1 cell(s). Id: 'Erin Pena' -> '1889'. Name from mail: 'Erin Pena' from 'erin.pena@yahoo.com'. 
+Line  1893 changes: Mail: 'geoffrey.leonardgmail.com' -> 'geoffrey.leonard@gmail.com'. 
+Line  1894 changes: Purchase amount: '-191.98' -> '191.98'. 
+Line  1895 changes: Empty cell: Removed line.
+Line  1896 changes: Empty cell: Removed 1 cell(s). 
+Line  1904 changes: Empty cell: Removed line.
+Line  1906 changes: Empty cell: Removed 1 cell(s). 
+Line  1907 changes: Empty cell: Removed line.
+Line  1909 changes: Id: 'nan' -> '1909'. 
+Line  1914 changes: Empty cell: Removed line.
+Line  1925 changes: Empty cell: Removed 1 cell(s). 
+Line  1932 changes: Name: '  Loretta Blake   ' -> 'Loretta Blake'. 
+Line  1941 changes: Empty cell: Removed line.
+Line  1950 changes: Empty cell: Removed line.
+Line  1957 changes: Empty cell: Removed line.
+Line  1963 changes: Empty cell: Removed line.
+Line  1964 changes: Empty cell: Removed line.
+Line  1965 changes: Empty cell: Removed line.
+Line  1969 changes: Empty cell: Removed 1 cell(s). 
+Line  1970 changes: Empty cell: Removed line.
+Line  1975 changes: Empty cell: Removed 1 cell(s). 
+Line  1976 changes: Empty cell: Removed line.
+Line  1985 changes: Empty cell: Removed line.
+Line  1993 changes: Id: '' -> '1993'. 
+Line  2006 changes: Empty cell: Removed line.
+Line  2009 changes: Id: '' -> '2009'. 
+Line  2012 changes: Empty cell: Removed 1 cell(s). 
+Line  2014 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  2033 changes: Empty cell: Removed line.
+Line  2034 changes: Empty cell: Removed 1 cell(s). 
+Line  2040 changes: Empty cell: Removed line.
+Line  2041 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  2042 changes: Empty cell: Removed 1 cell(s). 
+Line  2044 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  2048 changes: Empty cell: Removed line.
+Line  2050 changes: Name: '  Cole Lopez   ' -> 'Cole Lopez'. 
+Line  2051 changes: Name: '  Laura Flowers   ' -> 'Laura Flowers'. 
+Line  2052 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  2068 changes: Empty cell: Removed line.
+Line  2072 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  2082 changes: Purchase amount: '-776.36' -> '776.36'. 
+Line  2089 changes: Empty cell: Removed line.
+Line  2094 changes: Empty cell: Removed 1 cell(s). Id: '53' -> '2094'. 
+Line  2099 changes: Empty cell: Removed 1 cell(s). 
+Line  2116 changes: Id: '814' -> '2116'. 
+Line  2123 changes: Purchase amount: '-491.71' -> '491.71'. 
+Line  2124 changes: Empty cell: Removed line.
+Line  2125 changes: Empty cell: Removed line.
+Line  2127 changes: Id: '' -> '2127'. 
+Line  2128 changes: Empty cell: Removed line.
+Line  2130 changes: Empty cell: Removed 1 cell(s). 
+Line  2131 changes: Empty cell: Removed line.
+Line  2147 changes: Empty cell: Removed 1 cell(s). 
+Line  2154 changes: Id: '' -> '2154'. 
+Line  2171 changes: Empty cell: Removed line.
+Line  2182 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  2186 changes: Empty cell: Removed 1 cell(s). 
+Line  2197 changes: Empty cell: Removed line.
+Line  2199 changes: Empty cell: Removed 1 cell(s). 
+Line  2201 changes: Empty cell: Removed 1 cell(s). 
+Line  2206 changes: Empty cell: Removed line.
+Line  2207 changes: Name: '  David Merritt   ' -> 'David Merritt'. 
+Line  2216 changes: Empty cell: Removed 1 cell(s). 
+Line  2219 changes: Empty cell: Removed 1 cell(s). 
+Line  2234 changes: Purchase amount: '-729.1' -> '729.1'. 
+Line  2235 changes: Empty cell: Removed line.
+Line  2237 changes: Id: 'nan' -> '2237'. 
+Line  2241 changes: Mail: 'tammy.chavezhotmail.com' -> 'tammy.chavez@hotmail.com'. 
+Line  2242 changes: Empty cell: Removed 1 cell(s). 
+Line  2250 changes: Empty cell: Removed line.
+Line  2263 changes: Empty cell: Removed 1 cell(s). 
+Line  2271 changes: Mail: 'daniel.hartgmail.com' -> 'daniel.hart@gmail.com'. 
+Line  2273 changes: Id: '-692' -> '2273'. 
+Line  2283 changes: Id: '1640' -> '2283'. 
+Line  2284 changes: Empty cell: Removed 1 cell(s). 
+Line  2289 changes: Empty cell: Removed line.
+Line  2292 changes: Mail: 'joshua.brownhotmail.com' -> 'joshua.brown@hotmail.com'. 
+Line  2293 changes: Empty cell: Removed line.
+Line  2295 changes: Id: 'nan' -> '2295'. 
+Line  2296 changes: Name: '  Meredith Peters   ' -> 'Meredith Peters'. Mail: 'meredith.petershotmail.com' -> 'meredith.peters@hotmail.com'. 
+Line  2301 changes: Empty cell: Removed 1 cell(s). 
+Line  2303 changes: Empty cell: Removed 1 cell(s). 
+Line  2305 changes: Id: '' -> '2305'. 
+Line  2310 changes: Empty cell: Removed line.
+Line  2311 changes: Empty cell: Removed 1 cell(s). 
+Line  2313 changes: Id: '1215' -> '2313'. 
+Line  2321 changes: Empty cell: Removed line.
+Line  2324 changes: Empty cell: Removed line.
+Line  2330 changes: Empty cell: Removed line.
+Line  2331 changes: Name: '  Angelica Rojas   ' -> 'Angelica Rojas'. 
+Line  2335 changes: Empty cell: Removed line.
+Line  2342 changes: Empty cell: Removed 1 cell(s). Id: '372' -> '2342'. 
+Line  2355 changes: Empty cell: Removed 1 cell(s). 
+Line  2356 changes: Empty cell: Removed 1 cell(s). 
+Line  2359 changes: Empty cell: Removed 1 cell(s). 
+Line  2372 changes: Empty cell: Removed 1 cell(s). 
+Line  2374 changes: Id: '-391' -> '2374'. 
+Line  2377 changes: Empty cell: Removed line.
+Line  2379 changes: Empty cell: Removed line.
+Line  2381 changes: Id: '-923' -> '2381'. 
+Line  2393 changes: Id: '' -> '2393'. 
+Line  2403 changes: Empty cell: Removed line.
+Line  2407 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  2408 changes: Empty cell: Removed line.
+Line  2418 changes: Name: '  Angela Lambert   ' -> 'Angela Lambert'. 
+Line  2424 changes: Name: '  Jill Crawford   ' -> 'Jill Crawford'. 
+Line  2428 changes: Id: '-264' -> '2428'. 
+Line  2434 changes: Empty cell: Removed line.
+Line  2437 changes: Empty cell: Removed 1 cell(s). 
+Line  2467 changes: Mail: 'casey.matthewsyahoo.com' -> 'casey.matthews@yahoo.com'. 
+Line  2471 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  2484 changes: Id: '' -> '2484'. 
+Line  2486 changes: Empty cell: Removed line.
+Line  2494 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  2499 changes: Id: '-587' -> '2499'. 
+Line  2504 changes: Empty cell: Removed 1 cell(s). Id: '-460' -> '2504'. 
+Line  2516 changes: Empty cell: Removed line.
+Line  2535 changes: Empty cell: Removed line.
+Line  2541 changes: Empty cell: Removed 1 cell(s). 
+Line  2545 changes: Mail: 'bryan.ruizhotmail.com' -> 'bryan.ruiz@hotmail.com'. 
+Line  2563 changes: Empty cell: Removed line.
+Line  2566 changes: Empty cell: Removed line.
+Line  2571 changes: Empty cell: Removed line.
+Line  2576 changes: Empty cell: Removed 1 cell(s). 
+Line  2579 changes: Purchase amount: '-803.68' -> '803.68'. 
+Line  2584 changes: Empty cell: Removed line.
+Line  2613 changes: Empty cell: Removed line.
+Line  2619 changes: Id: '-870' -> '2619'. 
+Line  2625 changes: Mail: 'lance.walkerhotmail.com' -> 'lance.walker@hotmail.com'. 
+Line  2627 changes: Mail: 'jason.grantyahoo.com' -> 'jason.grant@yahoo.com'. 
+Line  2637 changes: Purchase amount: '-409.14' -> '409.14'. 
+Line  2652 changes: Empty cell: Removed line.
+Line  2669 changes: Name: '  Patrick Brown   ' -> 'Patrick Brown'. 
+Line  2670 changes: Empty cell: Removed 1 cell(s). 
+Line  2674 changes: Id: '' -> '2674'. 
+Line  2680 changes: Empty cell: Removed 1 cell(s). 
+Line  2692 changes: Empty cell: Removed line.
+Line  2709 changes: Empty cell: Removed line.
+Line  2712 changes: Empty cell: Removed 1 cell(s). 
+Line  2713 changes: Name: '  Mrs. Sarah Morris PhD   ' -> 'Mrs. Sarah Morris PhD'. 
+Line  2715 changes: Id: '124' -> '2715'. 
+Line  2721 changes: Name: '  Andrew Martinez   ' -> 'Andrew Martinez'. 
+Line  2738 changes: Empty cell: Removed 1 cell(s). 
+Line  2749 changes: Empty cell: Removed line.
+Line  2752 changes: Id: '125' -> '2752'. 
+Line  2753 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  2755 changes: Empty cell: Removed line.
+Line  2759 changes: Empty cell: Removed 1 cell(s). 
+Line  2760 changes: Empty cell: Removed line.
+Line  2761 changes: Mail: 'theresa.morenohotmail.com' -> 'theresa.moreno@hotmail.com'. 
+Line  2763 changes: Name: '  Ms. Kelly Ramos   ' -> 'Ms. Kelly Ramos'. 
+Line  2766 changes: Empty cell: Removed 1 cell(s). 
+Line  2778 changes: Empty cell: Removed 1 cell(s). 
+Line  2780 changes: Id: '1814' -> '2780'. 
+Line  2783 changes: Empty cell: Removed line.
+Line  2784 changes: Id: '' -> '2784'. 
+Line  2785 changes: Empty cell: Removed 1 cell(s). 
+Line  2792 changes: Id: '' -> '2792'. 
+Line  2793 changes: Empty cell: Removed line.
+Line  2795 changes: Empty cell: Removed line.
+Line  2800 changes: Empty cell: Removed line.
+Line  2803 changes: Id: '-732' -> '2803'. 
+Line  2806 changes: Empty cell: Removed line.
+Line  2809 changes: Id: '2076' -> '2809'. 
+Line  2811 changes: Empty cell: Removed line.
+Line  2816 changes: Id: '' -> '2816'. 
+Line  2818 changes: Empty cell: Removed line.
+Line  2821 changes: Id: '-788' -> '2821'. 
+Line  2823 changes: Empty cell: Removed 1 cell(s). 
+Line  2824 changes: Name: '  Christopher Hill   ' -> 'Christopher Hill'. 
+Line  2829 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  2830 changes: Empty cell: Removed line.
+Line  2834 changes: Id: '' -> '2834'. 
+Line  2835 changes: Id: '1055' -> '2835'. 
+Line  2844 changes: Id: '' -> '2844'. 
+Line  2847 changes: Empty cell: Removed 1 cell(s). 
+Line  2851 changes: Id: '2053' -> '2851'. 
+Line  2860 changes: Empty cell: Removed 1 cell(s). 
+Line  2862 changes: Id: '-78' -> '2862'. 
+Line  2864 changes: Empty cell: Removed line.
+Line  2878 changes: Name: '  Karen Green   ' -> 'Karen Green'. 
+Line  2883 changes: Empty cell: Removed line.
+Line  2884 changes: Empty cell: Removed line.
+Line  2906 changes: Empty cell: Removed line.
+Line  2910 changes: Empty cell: Removed 1 cell(s). 
+Line  2917 changes: Name: '  Chelsea Austin   ' -> 'Chelsea Austin'. 
+Line  2923 changes: Id: '-674' -> '2923'. 
+Line  2924 changes: Id: '1160' -> '2924'. 
+Line  2928 changes: Empty cell: Removed 1 cell(s). 
+Line  2938 changes: Empty cell: Removed 1 cell(s). 
+Line  2953 changes: Empty cell: Removed 1 cell(s). 
+Line  2960 changes: Empty cell: Removed 1 cell(s). 
+Line  2961 changes: Mail: 'kelly.oconnellyahoo.com' -> 'kelly.oconnell@yahoo.com'. 
+Line  2967 changes: Empty cell: Removed line.
+Line  2968 changes: Empty cell: Removed 1 cell(s). 
+Line  2971 changes: Id: '1017' -> '2971'. 
+Line  2985 changes: Empty cell: Removed 1 cell(s). Purchase amount: '-548.03' -> '548.03'. 
+Line  2992 changes: Empty cell: Removed 1 cell(s). 
+Line  2998 changes: Id: '2798' -> '2998'. 
+Line  3001 changes: Empty cell: Removed 1 cell(s). 
+Line  3019 changes: Empty cell: Removed 1 cell(s). 
+Line  3020 changes: Empty cell: Removed 1 cell(s). 
+Line  3027 changes: Empty cell: Removed line.
+Line  3031 changes: Purchase amount: '-640.29' -> '640.29'. 
+Line  3035 changes: Name: '  Susan Powell   ' -> 'Susan Powell'. 
+Line  3045 changes: Empty cell: Removed line.
+Line  3047 changes: Empty cell: Removed 1 cell(s). 
+Line  3048 changes: Empty cell: Removed line.
+Line  3049 changes: Empty cell: Removed 1 cell(s). 
+Line  3053 changes: Id: '2322' -> '3053'. 
+Line  3055 changes: Name: '  Michael Boyd   ' -> 'Michael Boyd'. 
+Line  3060 changes: Empty cell: Removed line.
+Line  3067 changes: Id: '782' -> '3067'. 
+Line  3070 changes: Id: 'nan' -> '3070'. 
+Line  3076 changes: Id: '529' -> '3076'. 
+Line  3081 changes: Name: '  Tony Rose   ' -> 'Tony Rose'. 
+Line  3099 changes: Id: '-557' -> '3099'. 
+Line  3103 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  3108 changes: Empty cell: Removed line.
+Line  3110 changes: Purchase amount: '-176.02' -> '176.02'. 
+Line  3115 changes: Id: '-501' -> '3115'. 
+Line  3116 changes: Empty cell: Removed line.
+Line  3119 changes: Empty cell: Removed 1 cell(s). 
+Line  3122 changes: Purchase amount: '-980.94' -> '980.94'. 
+Line  3125 changes: Name: '  Janice Sanchez   ' -> 'Janice Sanchez'. 
+Line  3131 changes: Purchase amount: '-376.03' -> '376.03'. 
+Line  3132 changes: Empty cell: Removed 1 cell(s). 
+Line  3145 changes: Id: '' -> '3145'. 
+Line  3163 changes: Id: '-691' -> '3163'. 
+Line  3170 changes: Id: '' -> '3170'. 
+Line  3175 changes: Empty cell: Removed line.
+Line  3178 changes: Purchase amount: '-223.91' -> '223.91'. 
+Line  3181 changes: Purchase amount: '-854.75' -> '854.75'. 
+Line  3187 changes: Empty cell: Removed 1 cell(s). 
+Line  3188 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  3190 changes: Purchase amount: '-925.85' -> '925.85'. 
+Line  3210 changes: Name: '  Deanna Williams   ' -> 'Deanna Williams'. 
+Line  3227 changes: Empty cell: Removed line.
+Line  3237 changes: Name: '  Nancy Campbell   ' -> 'Nancy Campbell'. 
+Line  3238 changes: Purchase amount: '-698.78' -> '698.78'. 
+Line  3242 changes: Empty cell: Removed 1 cell(s). 
+Line  3244 changes: Id: '646' -> '3244'. 
+Line  3250 changes: Empty cell: Removed 1 cell(s). 
+Line  3254 changes: Mail: 'jack.martinhotmail.com' -> 'jack.martin@hotmail.com'. 
+Line  3257 changes: Name: '  Joshua Nunez   ' -> 'Joshua Nunez'. 
+Line  3263 changes: Id: 'nan' -> '3263'. 
+Line  3264 changes: Empty cell: Removed line.
+Line  3267 changes: Purchase amount: '-812.42' -> '812.42'. 
+Line  3272 changes: Id: '' -> '3272'. 
+Line  3273 changes: Empty cell: Removed 1 cell(s). 
+Line  3283 changes: Empty cell: Removed line.
+Line  3288 changes: Id: '1533' -> '3288'. 
+Line  3289 changes: Empty cell: Removed 1 cell(s). 
+Line  3291 changes: Empty cell: Removed line.
+Line  3293 changes: Empty cell: Removed line.
+Line  3300 changes: Empty cell: Removed line.
+Line  3307 changes: Empty cell: Removed 1 cell(s). 
+Line  3309 changes: Id: 'nan' -> '3309'. 
+Line  3311 changes: Empty cell: Removed 1 cell(s). 
+Line  3316 changes: Empty cell: Removed line.
+Line  3317 changes: Empty cell: Removed line.
+Line  3320 changes: Empty cell: Removed line.
+Line  3323 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  3332 changes: Name: '  Christine Mckinney   ' -> 'Christine Mckinney'. 
+Line  3339 changes: Id: 'nan' -> '3339'. 
+Line  3342 changes: Id: '' -> '3342'. 
+Line  3344 changes: Empty cell: Removed line.
+Line  3346 changes: Id: '' -> '3346'. 
+Line  3348 changes: Purchase amount: '-387.12' -> '387.12'. 
+Line  3349 changes: Id: '-216' -> '3349'. 
+Line  3357 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  3359 changes: Empty cell: Removed line.
+Line  3361 changes: Empty cell: Removed 1 cell(s). 
+Line  3362 changes: Mail: 'richard.norrisgmail.com' -> 'richard.norris@gmail.com'. 
+Line  3366 changes: Id: '-941' -> '3366'. 
+Line  3367 changes: Id: '-305' -> '3367'. 
+Line  3370 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  3375 changes: Id: 'nan' -> '3375'. 
+Line  3376 changes: Empty cell: Removed 1 cell(s). 
+Line  3377 changes: Empty cell: Removed 1 cell(s). 
+Line  3379 changes: Purchase amount: '-145.31' -> '145.31'. 
+Line  3395 changes: Id: '1310' -> '3395'. 
+Line  3402 changes: Id: 'nan' -> '3402'. 
+Line  3403 changes: Empty cell: Removed 1 cell(s). 
+Line  3407 changes: Empty cell: Removed line.
+Line  3410 changes: Empty cell: Removed 1 cell(s). 
+Line  3412 changes: Empty cell: Removed line.
+Line  3413 changes: Mail: 'sandra.williamsgmail.com' -> 'sandra.williams@gmail.com'. 
+Line  3426 changes: Purchase amount: '-582.85' -> '582.85'. 
+Line  3446 changes: Id: 'nan' -> '3446'. 
+Line  3447 changes: Purchase amount: '-359.5' -> '359.5'. 
+Line  3451 changes: Empty cell: Removed line.
+Line  3454 changes: Purchase amount: '-335.32' -> '335.32'. 
+Line  3457 changes: Id: '-787' -> '3457'. Purchase amount: '-712.3' -> '712.3'. 
+Line  3459 changes: Id: '' -> '3459'. 
+Line  3466 changes: Id: 'nan' -> '3466'. Name: '  Deborah Frye   ' -> 'Deborah Frye'. 
+Line  3468 changes: Empty cell: Removed 1 cell(s). 
+Line  3469 changes: Name: '  Daniel Jones   ' -> 'Daniel Jones'. 
+Line  3471 changes: Id: 'nan' -> '3471'. 
+Line  3472 changes: Empty cell: Removed 1 cell(s). 
+Line  3476 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  3479 changes: Name: '  Jonathan Gutierrez   ' -> 'Jonathan Gutierrez'. 
+Line  3484 changes: Id: '2174' -> '3484'. 
+Line  3493 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  3495 changes: Empty cell: Removed line.
+Line  3511 changes: Id: 'nan' -> '3511'. 
+Line  3527 changes: Empty cell: Removed 1 cell(s). 
+Line  3549 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  3551 changes: Empty cell: Removed 1 cell(s). 
+Line  3567 changes: Empty cell: Removed line.
+Line  3570 changes: Name: '  Heather Hammond   ' -> 'Heather Hammond'. 
+Line  3582 changes: Purchase amount: '-967.77' -> '967.77'. 
+Line  3588 changes: Empty cell: Removed line.
+Line  3589 changes: Id: '' -> '3589'. 
+Line  3590 changes: Empty cell: Removed 1 cell(s). 
+Line  3592 changes: Empty cell: Removed line.
+Line  3597 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  3600 changes: Id: '' -> '3600'. 
+Line  3603 changes: Empty cell: Removed 1 cell(s). 
+Line  3608 changes: Id: '' -> '3608'. 
+Line  3616 changes: Empty cell: Removed line.
+Line  3617 changes: Name: '  Jimmy Nolan   ' -> 'Jimmy Nolan'. 
+Line  3618 changes: Empty cell: Removed 1 cell(s). 
+Line  3652 changes: Id: '' -> '3652'. 
+Line  3657 changes: Id: '120' -> '3657'. 
+Line  3658 changes: Id: 'nan' -> '3658'. 
+Line  3660 changes: Empty cell: Removed 1 cell(s). 
+Line  3661 changes: Empty cell: Removed 1 cell(s). 
+Line  3670 changes: Id: '-187' -> '3670'. 
+Line  3679 changes: Empty cell: Removed line.
+Line  3683 changes: Empty cell: Removed 1 cell(s). 
+Line  3687 changes: Name: '  Gary Green   ' -> 'Gary Green'. 
+Line  3693 changes: Empty cell: Removed 1 cell(s). 
+Line  3698 changes: Id: '-833' -> '3698'. 
+Line  3700 changes: Empty cell: Removed line.
+Line  3703 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  3704 changes: Empty cell: Removed line.
+Line  3710 changes: Empty cell: Removed line.
+Line  3731 changes: Id: 'nan' -> '3731'. 
+Line  3732 changes: Empty cell: Removed 1 cell(s). 
+Line  3735 changes: Empty cell: Removed 1 cell(s). 
+Line  3737 changes: Id: 'nan' -> '3737'. 
+Line  3743 changes: Purchase amount: '-587.21' -> '587.21'. 
+Line  3745 changes: Id: '-693' -> '3745'. 
+Line  3748 changes: Empty cell: Removed 1 cell(s). 
+Line  3755 changes: Empty cell: Removed 1 cell(s). 
+Line  3758 changes: Empty cell: Removed line.
+Line  3759 changes: Empty cell: Removed line.
+Line  3761 changes: Empty cell: Removed 1 cell(s). 
+Line  3762 changes: Empty cell: Removed line.
+Line  3771 changes: Empty cell: Removed line.
+Line  3787 changes: Id: '2476' -> '3787'. Name: '  Albert Wallace   ' -> 'Albert Wallace'. 
+Line  3800 changes: Id: '-793' -> '3800'. 
+Line  3801 changes: Purchase amount: '-435.49' -> '435.49'. 
+Line  3807 changes: Id: '' -> '3807'. 
+Line  3811 changes: Name: '  Adam Mccormick   ' -> 'Adam Mccormick'. 
+Line  3819 changes: Id: '-585' -> '3819'. 
+Line  3827 changes: Purchase amount: '-743.33' -> '743.33'. 
+Line  3830 changes: Empty cell: Removed line.
+Line  3835 changes: Id: '' -> '3835'. 
+Line  3841 changes: Empty cell: Removed 1 cell(s). 
+Line  3845 changes: Id: '' -> '3845'. 
+Line  3852 changes: Purchase amount: '-537.15' -> '537.15'. 
+Line  3859 changes: Empty cell: Removed line.
+Line  3864 changes: Id: '' -> '3864'. 
+Line  3866 changes: Id: 'nan' -> '3866'. 
+Line  3875 changes: Mail: 'thomas.johnsonyahoo.com' -> 'thomas.johnson@yahoo.com'. 
+Line  3880 changes: Mail: 'stacy.jenningsyahoo.com' -> 'stacy.jennings@yahoo.com'. 
+Line  3883 changes: Empty cell: Removed line.
+Line  3888 changes: Empty cell: Removed line.
+Line  3897 changes: Name: '  Debra Adams   ' -> 'Debra Adams'. 
+Line  3898 changes: Empty cell: Removed 1 cell(s). 
+Line  3907 changes: Id: '1894' -> '3907'. 
+Line  3910 changes: Empty cell: Removed line.
+Line  3913 changes: Empty cell: Removed 1 cell(s). 
+Line  3925 changes: Empty cell: Removed 1 cell(s). 
+Line  3934 changes: Empty cell: Removed line.
+Line  3935 changes: Id: '' -> '3935'. 
+Line  3938 changes: Id: '' -> '3938'. 
+Line  3939 changes: Empty cell: Removed 1 cell(s). 
+Line  3941 changes: Empty cell: Removed line.
+Line  3953 changes: Empty cell: Removed 1 cell(s). 
+Line  3955 changes: Empty cell: Removed 1 cell(s). 
+Line  3970 changes: Empty cell: Removed 1 cell(s). 
+Line  3971 changes: Id: '3475' -> '3971'. 
+Line  3973 changes: Id: '1987' -> '3973'. 
+Line  3975 changes: Id: '625' -> '3975'. 
+Line  3977 changes: Empty cell: Removed line.
+Line  3980 changes: Id: 'nan' -> '3980'. 
+Line  3983 changes: Empty cell: Removed line.
+Line  3992 changes: Empty cell: Removed line.
+Line  3993 changes: Id: 'nan' -> '3993'. 
+Line  3998 changes: Empty cell: Removed line.
+Line  4002 changes: Empty cell: Removed 1 cell(s). 
+Line  4014 changes: Empty cell: Removed 1 cell(s). 
+Line  4016 changes: Empty cell: Removed line.
+Line  4026 changes: Empty cell: Removed line.
+Line  4029 changes: Id: '-560' -> '4029'. 
+Line  4033 changes: Id: 'nan' -> '4033'. 
+Line  4044 changes: Empty cell: Removed line.
+Line  4053 changes: Id: '186' -> '4053'. 
+Line  4057 changes: Empty cell: Removed 1 cell(s). 
+Line  4068 changes: Empty cell: Removed line.
+Line  4069 changes: Mail: 'justin.hollandgmail.com' -> 'justin.holland@gmail.com'. 
+Line  4071 changes: Empty cell: Removed line.
+Line  4077 changes: Id: '2570' -> '4077'. 
+Line  4079 changes: Empty cell: Removed 1 cell(s). 
+Line  4087 changes: Empty cell: Removed line.
+Line  4088 changes: Empty cell: Removed 1 cell(s). 
+Line  4098 changes: Id: 'nan' -> '4098'. Mail: 'heather.estesyahoo.com' -> 'heather.estes@yahoo.com'. 
+Line  4101 changes: Id: '-699' -> '4101'. 
+Line  4105 changes: Empty cell: Removed 1 cell(s). 
+Line  4109 changes: Empty cell: Removed line.
+Line  4112 changes: Id: '-470' -> '4112'. 
+Line  4116 changes: Id: '266' -> '4116'. 
+Line  4120 changes: Purchase amount: '-381.57' -> '381.57'. 
+Line  4128 changes: Empty cell: Removed line.
+Line  4129 changes: Empty cell: Removed 1 cell(s). 
+Line  4132 changes: Purchase amount: '-647.64' -> '647.64'. 
+Line  4134 changes: Id: '-806' -> '4134'. 
+Line  4136 changes: Empty cell: Removed line.
+Line  4140 changes: Empty cell: Removed line.
+Line  4144 changes: Purchase amount: '-642.48' -> '642.48'. 
+Line  4146 changes: Empty cell: Removed 1 cell(s). 
+Line  4152 changes: Name: '  Jasmine Juarez   ' -> 'Jasmine Juarez'. 
+Line  4154 changes: Empty cell: Removed line.
+Line  4155 changes: Id: 'nan' -> '4155'. 
+Line  4158 changes: Purchase amount: '-898.76' -> '898.76'. 
+Line  4161 changes: Empty cell: Removed 1 cell(s). 
+Line  4164 changes: Id: '' -> '4164'. 
+Line  4173 changes: Empty cell: Removed line.
+Line  4174 changes: Purchase amount: '-29.63' -> '29.63'. 
+Line  4175 changes: Purchase amount: '-981.97' -> '981.97'. 
+Line  4188 changes: Empty cell: Removed 1 cell(s). 
+Line  4192 changes: Empty cell: Removed line.
+Line  4200 changes: Empty cell: Removed 1 cell(s). 
+Line  4205 changes: Empty cell: Removed line.
+Line  4231 changes: Empty cell: Removed line.
+Line  4232 changes: Empty cell: Removed line.
+Line  4240 changes: Id: '-329' -> '4240'. 
+Line  4241 changes: Name: '  Tony Davis   ' -> 'Tony Davis'. 
+Line  4245 changes: Empty cell: Removed 1 cell(s). 
+Line  4253 changes: Mail: 'kayla.dunlaphotmail.com' -> 'kayla.dunlap@hotmail.com'. 
+Line  4262 changes: Empty cell: Removed line.
+Line  4263 changes: Empty cell: Removed 1 cell(s). 
+Line  4266 changes: Empty cell: Removed line.
+Line  4283 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  4291 changes: Purchase amount: '-838.91' -> '838.91'. 
+Line  4297 changes: Empty cell: Removed 1 cell(s). Name: '  Robert Smith   ' -> 'Robert Smith'. 
+Line  4299 changes: Mail: 'stacey.douglasyahoo.com' -> 'stacey.douglas@yahoo.com'. 
+Line  4308 changes: Empty cell: Removed 1 cell(s). 
+Line  4311 changes: Purchase amount: '-49.14' -> '49.14'. 
+Line  4313 changes: Empty cell: Removed line.
+Line  4322 changes: Id: '555' -> '4322'. 
+Line  4329 changes: Empty cell: Removed line.
+Line  4332 changes: Name: '  James Ford   ' -> 'James Ford'. 
+Line  4335 changes: Purchase amount: '-985.88' -> '985.88'. 
+Line  4340 changes: Purchase amount: '-888.86' -> '888.86'. 
+Line  4344 changes: Empty cell: Removed 1 cell(s). 
+Line  4348 changes: Empty cell: Removed line.
+Line  4349 changes: Empty cell: Removed line.
+Line  4354 changes: Empty cell: Removed line.
+Line  4359 changes: Empty cell: Removed line.
+Line  4362 changes: Empty cell: Removed 1 cell(s). 
+Line  4367 changes: Empty cell: Removed 1 cell(s). 
+Line  4371 changes: Empty cell: Removed line.
+Line  4373 changes: Empty cell: Removed 1 cell(s). Purchase amount: 'ABC123' -> ''''. 
+Line  4378 changes: Mail: 'shawn.hansenyahoo.com' -> 'shawn.hansen@yahoo.com'. 
+Line  4384 changes: Empty cell: Removed 1 cell(s). 
+Line  4387 changes: Id: '1366' -> '4387'. Purchase amount: '-873.92' -> '873.92'. 
+Line  4392 changes: Id: '' -> '4392'. 
+Line  4399 changes: Name: '  Virginia Hernandez   ' -> 'Virginia Hernandez'. 
+Line  4420 changes: Empty cell: Removed 1 cell(s). 
+Line  4423 changes: Empty cell: Removed 1 cell(s). 
+Line  4430 changes: Empty cell: Removed 1 cell(s). 
+Line  4431 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  4434 changes: Empty cell: Removed 1 cell(s). 
+Line  4435 changes: Empty cell: Removed 1 cell(s). 
+Line  4437 changes: Purchase amount: '-608.75' -> '608.75'. 
+Line  4442 changes: Empty cell: Removed line.
+Line  4453 changes: Id: '' -> '4453'. 
+Line  4473 changes: Empty cell: Removed line.
+Line  4475 changes: Purchase amount: '-44.65' -> '44.65'. 
+Line  4484 changes: Empty cell: Removed line.
+Line  4488 changes: Id: 'nan' -> '4488'. 
+Line  4494 changes: Empty cell: Removed 1 cell(s). Id: '3992' -> '4494'. 
+Line  4496 changes: Mail: 'dr..madisonhotmail.com' -> 'dr..madison@hotmail.com'. 
+Line  4515 changes: Empty cell: Removed 1 cell(s). 
+Line  4530 changes: Id: 'nan' -> '4530'. 
+Line  4541 changes: Empty cell: Removed line.
+Line  4546 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  4554 changes: Empty cell: Removed 1 cell(s). 
+Line  4555 changes: Id: '-512' -> '4555'. 
+Line  4559 changes: Empty cell: Removed line.
+Line  4563 changes: Id: '' -> '4563'. 
+Line  4565 changes: Empty cell: Removed line.
+Line  4572 changes: Empty cell: Removed 1 cell(s). 
+Line  4574 changes: Empty cell: Removed 1 cell(s). 
+Line  4585 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  4586 changes: Empty cell: Removed 1 cell(s). 
+Line  4593 changes: Empty cell: Removed line.
+Line  4595 changes: Empty cell: Removed line.
+Line  4596 changes: Name: '  Gail Hardy   ' -> 'Gail Hardy'. 
+Line  4604 changes: Id: '' -> '4604'. 
+Line  4610 changes: Empty cell: Removed 1 cell(s). 
+Line  4616 changes: Empty cell: Removed 1 cell(s). 
+Line  4617 changes: Id: '1556' -> '4617'. 
+Line  4621 changes: Mail: 'diana.mccoygmail.com' -> 'diana.mccoy@gmail.com'. 
+Line  4630 changes: Id: 'nan' -> '4630'. 
+Line  4635 changes: Empty cell: Removed line.
+Line  4645 changes: Empty cell: Removed line.
+Line  4653 changes: Empty cell: Removed 1 cell(s). 
+Line  4658 changes: Id: 'nan' -> '4658'. 
+Line  4671 changes: Id: '2830' -> '4671'. 
+Line  4675 changes: Mail: 'becky.perezhotmail.com' -> 'becky.perez@hotmail.com'. 
+Line  4680 changes: Empty cell: Removed line.
+Line  4681 changes: Empty cell: Removed 1 cell(s). 
+Line  4685 changes: Empty cell: Removed 1 cell(s). 
+Line  4691 changes: Empty cell: Removed 1 cell(s). 
+Line  4700 changes: Empty cell: Removed line.
+Line  4701 changes: Id: '' -> '4701'. 
+Line  4705 changes: Id: '' -> '4705'. 
+Line  4708 changes: Name: '  David Craig   ' -> 'David Craig'. 
+Line  4709 changes: Id: 'nan' -> '4709'. 
+Line  4712 changes: Empty cell: Removed line.
+Line  4715 changes: Empty cell: Removed 1 cell(s). 
+Line  4716 changes: Empty cell: Removed line.
+Line  4727 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  4739 changes: Name: '  Thomas Randall   ' -> 'Thomas Randall'. 
+Line  4752 changes: Empty cell: Removed line.
+Line  4760 changes: Id: '-386' -> '4760'. 
+Line  4761 changes: Empty cell: Removed 1 cell(s). 
+Line  4763 changes: Empty cell: Removed 1 cell(s). Id: 'nan' -> '4763'. 
+Line  4765 changes: Empty cell: Removed 1 cell(s). 
+Line  4778 changes: Empty cell: Removed line.
+Line  4782 changes: Id: '1830' -> '4782'. 
+Line  4783 changes: Empty cell: Removed 1 cell(s). 
+Line  4784 changes: Name: '  Jessica Henderson   ' -> 'Jessica Henderson'. Purchase amount: 'ABC123' -> ''''. 
+Line  4789 changes: Id: '2962' -> '4789'. 
+Line  4795 changes: Empty cell: Removed line.
+Line  4798 changes: Empty cell: Removed line.
+Line  4805 changes: Empty cell: Removed line.
+Line  4811 changes: Empty cell: Removed 1 cell(s). 
+Line  4815 changes: Empty cell: Removed line.
+Line  4816 changes: Id: '' -> '4816'. 
+Line  4819 changes: Empty cell: Removed line.
+Line  4826 changes: Name: '  Robert Caldwell   ' -> 'Robert Caldwell'. 
+Line  4827 changes: Id: '-799' -> '4827'. 
+Line  4828 changes: Empty cell: Removed line.
+Line  4831 changes: Empty cell: Removed 1 cell(s). 
+Line  4834 changes: Empty cell: Removed 1 cell(s). Id: '2960' -> '4834'. 
+Line  4836 changes: Empty cell: Removed line.
+Line  4847 changes: Id: '' -> '4847'. 
+Line  4849 changes: Empty cell: Removed line.
+Line  4853 changes: Id: '-572' -> '4853'. 
+Line  4867 changes: Empty cell: Removed line.
+Line  4875 changes: Empty cell: Removed line.
+Line  4877 changes: Empty cell: Removed 1 cell(s). Id: '' -> '4877'. 
+Line  4878 changes: Empty cell: Removed 1 cell(s). 
+Line  4880 changes: Empty cell: Removed line.
+Line  4884 changes: Empty cell: Removed 1 cell(s). 
+Line  4910 changes: Id: '' -> '4910'. 
+Line  4914 changes: Empty cell: Removed line.
+Line  4925 changes: Id: '-730' -> '4925'. 
+Line  4931 changes: Empty cell: Removed 1 cell(s). 
+Line  4932 changes: Empty cell: Removed line.
+Line  4933 changes: Name: '  Robin Hall   ' -> 'Robin Hall'. 
+Line  4938 changes: Empty cell: Removed line.
+Line  4943 changes: Empty cell: Removed line.
+Line  4950 changes: Empty cell: Removed line.
+Line  4957 changes: Id: 'nan' -> '4957'. Purchase amount: 'ABC123' -> ''''. 
+Line  4982 changes: Empty cell: Removed line.
+Line  4986 changes: Empty cell: Removed 1 cell(s). 
+Line  4988 changes: Empty cell: Removed line.
+Line  4997 changes: Empty cell: Removed line.
+Line  4999 changes: Empty cell: Removed 1 cell(s). Purchase amount: '-917.12' -> '917.12'. 
+Line  5005 changes: Empty cell: Removed line.
+Line  5012 changes: Empty cell: Removed 1 cell(s). 
+Line  5014 changes: Mail: 'natasha.vincenthotmail.com' -> 'natasha.vincent@hotmail.com'. 
+Line  5016 changes: Empty cell: Removed 1 cell(s). 
+Line  5020 changes: Empty cell: Removed line.
+Line  5032 changes: Name: '  Jeremy Gardner   ' -> 'Jeremy Gardner'. 
+Line  5033 changes: Empty cell: Removed 1 cell(s). 
+Line  5034 changes: Empty cell: Removed 1 cell(s). 
+Line  5035 changes: Empty cell: Removed line.
+Line  5036 changes: Id: '-31' -> '5036'. 
+Line  5039 changes: Id: '1240' -> '5039'. 
+Line  5044 changes: Purchase amount: '-409.47' -> '409.47'. 
+Line  5047 changes: Empty cell: Removed 1 cell(s). 
+Line  5049 changes: Id: 'nan' -> '5049'. 
+Line  5052 changes: Mail: 'kimberly.solishotmail.com' -> 'kimberly.solis@hotmail.com'. 
+Line  5062 changes: Empty cell: Removed 1 cell(s). Id: '' -> '5062'. 
+Line  5070 changes: Id: 'nan' -> '5070'. 
+Line  5075 changes: Purchase amount: '-170.48' -> '170.48'. 
+Line  5076 changes: Id: '-105' -> '5076'. 
+Line  5077 changes: Id: '793' -> '5077'. 
+Line  5082 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  5083 changes: Empty cell: Removed line.
+Line  5089 changes: Empty cell: Removed 1 cell(s). 
+Line  5090 changes: Empty cell: Removed line.
+Line  5093 changes: Empty cell: Removed line.
+Line  5096 changes: Empty cell: Removed 1 cell(s). 
+Line  5097 changes: Empty cell: Removed 1 cell(s). 
+Line  5130 changes: Purchase amount: '-185.87' -> '185.87'. 
+Line  5134 changes: Empty cell: Removed line.
+Line  5136 changes: Empty cell: Removed line.
+Line  5141 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  5150 changes: Id: '' -> '5150'. 
+Line  5152 changes: Empty cell: Removed line.
+Line  5155 changes: Purchase amount: '-43.38' -> '43.38'. 
+Line  5161 changes: Empty cell: Removed 1 cell(s). 
+Line  5173 changes: Empty cell: Removed line.
+Line  5180 changes: Id: '3169' -> '5180'. 
+Line  5184 changes: Empty cell: Removed line.
+Line  5193 changes: Name: '  Michaela Phillips   ' -> 'Michaela Phillips'. 
+Line  5197 changes: Id: '' -> '5197'. 
+Line  5218 changes: Empty cell: Removed 1 cell(s). 
+Line  5224 changes: Id: '-906' -> '5224'. 
+Line  5234 changes: Name: '  Brett Smith   ' -> 'Brett Smith'. 
+Line  5243 changes: Empty cell: Removed line.
+Line  5246 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  5249 changes: Name: '  Kim Mcguire   ' -> 'Kim Mcguire'. 
+Line  5261 changes: Id: '3095' -> '5261'. 
+Line  5262 changes: Id: 'nan' -> '5262'. 
+Line  5280 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  5281 changes: Mail: 'emily.wilsonyahoo.com' -> 'emily.wilson@yahoo.com'. 
+Line  5284 changes: Id: '1164' -> '5284'. 
+Line  5285 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  5287 changes: Empty cell: Removed 1 cell(s). 
+Line  5288 changes: Empty cell: Removed line.
+Line  5291 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  5294 changes: Empty cell: Removed line.
+Line  5299 changes: Empty cell: Removed 1 cell(s). 
+Line  5318 changes: Empty cell: Removed 1 cell(s). 
+Line  5338 changes: Id: '-56' -> '5338'. 
+Line  5341 changes: Id: '3674' -> '5341'. 
+Line  5348 changes: Id: '-849' -> '5348'. 
+Line  5356 changes: Empty cell: Removed 1 cell(s). 
+Line  5370 changes: Empty cell: Removed line.
+Line  5371 changes: Purchase amount: '-111.43' -> '111.43'. 
+Line  5374 changes: Empty cell: Removed 1 cell(s). 
+Line  5376 changes: Id: 'nan' -> '5376'. 
+Line  5383 changes: Purchase amount: '-642.77' -> '642.77'. 
+Line  5385 changes: Id: '' -> '5385'. 
+Line  5387 changes: Empty cell: Removed 1 cell(s). 
+Line  5391 changes: Empty cell: Removed 1 cell(s). 
+Line  5396 changes: Empty cell: Removed 1 cell(s). 
+Line  5408 changes: Id: '-589' -> '5408'. 
+Line  5420 changes: Id: '2310' -> '5420'. 
+Line  5422 changes: Id: '1830' -> '5422'. 
+Line  5427 changes: Id: '' -> '5427'. 
+Line  5438 changes: Purchase amount: '-242.75' -> '242.75'. 
+Line  5445 changes: Empty cell: Removed line.
+Line  5460 changes: Id: 'nan' -> '5460'. 
+Line  5464 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  5473 changes: Empty cell: Removed 1 cell(s). 
+Line  5474 changes: Id: '' -> '5474'. 
+Line  5483 changes: Empty cell: Removed line.
+Line  5488 changes: Empty cell: Removed line.
+Line  5490 changes: Empty cell: Removed 1 cell(s). 
+Line  5498 changes: Empty cell: Removed 1 cell(s). 
+Line  5499 changes: Id: '-251' -> '5499'. 
+Line  5502 changes: Empty cell: Removed 1 cell(s). 
+Line  5503 changes: Empty cell: Removed line.
+Line  5504 changes: Id: 'nan' -> '5504'. 
+Line  5505 changes: Empty cell: Removed 1 cell(s). 
+Line  5507 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  5508 changes: Mail: 'luis.higginsyahoo.com' -> 'luis.higgins@yahoo.com'. 
+Line  5512 changes: Id: 'nan' -> '5512'. 
+Line  5513 changes: Mail: 'jennifer.smithgmail.com' -> 'jennifer.smith@gmail.com'. 
+Line  5524 changes: Empty cell: Removed 1 cell(s). 
+Line  5539 changes: Id: '3632' -> '5539'. 
+Line  5544 changes: Empty cell: Removed line.
+Line  5547 changes: Empty cell: Removed 1 cell(s). 
+Line  5549 changes: Empty cell: Removed 1 cell(s). 
+Line  5558 changes: Id: '-462' -> '5558'. 
+Line  5562 changes: Empty cell: Removed 1 cell(s). 
+Line  5574 changes: Empty cell: Removed line.
+Line  5576 changes: Name: '  Jeremy Jackson   ' -> 'Jeremy Jackson'. 
+Line  5588 changes: Empty cell: Removed 1 cell(s). 
+Line  5589 changes: Empty cell: Removed line.
+Line  5590 changes: Empty cell: Removed 1 cell(s). 
+Line  5611 changes: Purchase amount: '-146.75' -> '146.75'. 
+Line  5617 changes: Empty cell: Removed 1 cell(s). 
+Line  5619 changes: Id: '-38' -> '5619'. 
+Line  5634 changes: Purchase amount: '-512.03' -> '512.03'. 
+Line  5638 changes: Id: 'nan' -> '5638'. 
+Line  5640 changes: Id: '' -> '5640'. 
+Line  5645 changes: Id: '' -> '5645'. 
+Line  5649 changes: Mail: 'christine.mcculloughgmail.com' -> 'christine.mccullough@gmail.com'. 
+Line  5655 changes: Empty cell: Removed 1 cell(s). 
+Line  5663 changes: Id: '-829' -> '5663'. 
+Line  5670 changes: Mail: 'melissa.blairhotmail.com' -> 'melissa.blair@hotmail.com'. 
+Line  5679 changes: Empty cell: Removed line.
+Line  5686 changes: Id: '' -> '5686'. 
+Line  5687 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  5689 changes: Id: '' -> '5689'. 
+Line  5694 changes: Empty cell: Removed line.
+Line  5697 changes: Empty cell: Removed line.
+Line  5703 changes: Empty cell: Removed line.
+Line  5705 changes: Id: '' -> '5705'. 
+Line  5708 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  5716 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  5719 changes: Empty cell: Removed 1 cell(s). 
+Line  5729 changes: Empty cell: Removed 1 cell(s). 
+Line  5731 changes: Empty cell: Removed line.
+Line  5741 changes: Id: 'nan' -> '5741'. 
+Line  5759 changes: Name: '  John Miller   ' -> 'John Miller'. 
+Line  5761 changes: Id: '4692' -> '5761'. 
+Line  5765 changes: Mail: 'allison.alexanderyahoo.com' -> 'allison.alexander@yahoo.com'. 
+Line  5769 changes: Id: 'nan' -> '5769'. 
+Line  5770 changes: Id: 'nan' -> '5770'. 
+Line  5771 changes: Mail: 'eric.hardyyahoo.com' -> 'eric.hardy@yahoo.com'. 
+Line  5773 changes: Mail: 'ana.bowershotmail.com' -> 'ana.bowers@hotmail.com'. 
+Line  5774 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  5775 changes: Empty cell: Removed 1 cell(s). 
+Line  5777 changes: Empty cell: Removed line.
+Line  5788 changes: Empty cell: Removed 1 cell(s). 
+Line  5797 changes: Id: '-459' -> '5797'. 
+Line  5798 changes: Empty cell: Removed line.
+Line  5803 changes: Name: '  Eric Rodriguez   ' -> 'Eric Rodriguez'. 
+Line  5810 changes: Empty cell: Removed 1 cell(s). 
+Line  5811 changes: Purchase amount: '-113.58' -> '113.58'. 
+Line  5812 changes: Empty cell: Removed line.
+Line  5813 changes: Empty cell: Removed line.
+Line  5818 changes: Empty cell: Removed line.
+Line  5821 changes: Empty cell: Removed 1 cell(s). 
+Line  5823 changes: Id: 'nan' -> '5823'. 
+Line  5824 changes: Empty cell: Removed line.
+Line  5825 changes: Empty cell: Removed line.
+Line  5829 changes: Empty cell: Removed line.
+Line  5832 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  5839 changes: Empty cell: Removed 1 cell(s). 
+Line  5847 changes: Empty cell: Removed 1 cell(s). 
+Line  5850 changes: Id: '2528' -> '5850'. 
+Line  5852 changes: Empty cell: Removed 1 cell(s). 
+Line  5859 changes: Empty cell: Removed line.
+Line  5865 changes: Id: 'nan' -> '5865'. 
+Line  5866 changes: Id: 'nan' -> '5866'. 
+Line  5869 changes: Purchase amount: '-121.58' -> '121.58'. 
+Line  5870 changes: Empty cell: Removed 1 cell(s). 
+Line  5872 changes: Id: 'nan' -> '5872'. 
+Line  5873 changes: Empty cell: Removed line.
+Line  5874 changes: Empty cell: Removed line.
+Line  5877 changes: Id: '-559' -> '5877'. 
+Line  5886 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  5890 changes: Empty cell: Removed line.
+Line  5893 changes: Id: '5294' -> '5893'. Purchase amount: '-671.38' -> '671.38'. 
+Line  5901 changes: Empty cell: Removed line.
+Line  5903 changes: Empty cell: Removed 1 cell(s). 
+Line  5906 changes: Empty cell: Removed line.
+Line  5908 changes: Purchase amount: '-23.75' -> '23.75'. 
+Line  5911 changes: Mail: 'april.williamsgmail.com' -> 'april.williams@gmail.com'. 
+Line  5912 changes: Empty cell: Removed line.
+Line  5926 changes: Empty cell: Removed line.
+Line  5929 changes: Empty cell: Removed line.
+Line  5930 changes: Empty cell: Removed line.
+Line  5937 changes: Empty cell: Removed line.
+Line  5940 changes: Name: '  Franklin Dean   ' -> 'Franklin Dean'. 
+Line  5946 changes: Id: 'nan' -> '5946'. 
+Line  5951 changes: Id: '-166' -> '5951'. 
+Line  5961 changes: Empty cell: Removed 1 cell(s). 
+Line  5963 changes: Id: '3201' -> '5963'. 
+Line  5970 changes: Empty cell: Removed 1 cell(s). 
+Line  5974 changes: Id: '-357' -> '5974'. 
+Line  5981 changes: Empty cell: Removed line.
+Line  5982 changes: Empty cell: Removed 1 cell(s). Purchase amount: 'ABC123' -> ''''. 
+Line  5987 changes: Purchase amount: '-209.74' -> '209.74'. 
+Line  5990 changes: Id: '-708' -> '5990'. 
+Line  5991 changes: Empty cell: Removed line.
+Line  5998 changes: Purchase amount: '-94.86' -> '94.86'. 
+Line  6005 changes: Empty cell: Removed 1 cell(s). 
+Line  6017 changes: Id: '' -> '6017'. 
+Line  6022 changes: Empty cell: Removed line.
+Line  6027 changes: Name: '  Maria Diaz   ' -> 'Maria Diaz'. 
+Line  6037 changes: Empty cell: Removed line.
+Line  6047 changes: Empty cell: Removed 1 cell(s). 
+Line  6049 changes: Empty cell: Removed 1 cell(s). 
+Line  6051 changes: Empty cell: Removed 1 cell(s). 
+Line  6058 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  6062 changes: Empty cell: Removed line.
+Line  6063 changes: Empty cell: Removed 1 cell(s). 
+Line  6064 changes: Empty cell: Removed 1 cell(s). 
+Line  6067 changes: Id: 'nan' -> '6067'. 
+Line  6077 changes: Name: '  James Bowen   ' -> 'James Bowen'. 
+Line  6080 changes: Id: '-137' -> '6080'. 
+Line  6083 changes: Empty cell: Removed 1 cell(s). 
+Line  6088 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  6091 changes: Mail: 'brian.rowlandhotmail.com' -> 'brian.rowland@hotmail.com'. Purchase amount: '-692.87' -> '692.87'. 
+Line  6097 changes: Empty cell: Removed line.
+Line  6103 changes: Empty cell: Removed line.
+Line  6107 changes: Id: 'nan' -> '6107'. 
+Line  6111 changes: Empty cell: Removed 1 cell(s). 
+Line  6123 changes: Empty cell: Removed 1 cell(s). 
+Line  6131 changes: Name: '  April Odonnell   ' -> 'April Odonnell'. 
+Line  6135 changes: Id: '-836' -> '6135'. 
+Line  6136 changes: Empty cell: Removed line.
+Line  6144 changes: Id: '-809' -> '6144'. 
+Line  6149 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  6152 changes: Id: '' -> '6152'. 
+Line  6153 changes: Empty cell: Removed 1 cell(s). 
+Line  6159 changes: Id: '1820' -> '6159'. 
+Line  6160 changes: Name: '  Megan Gates   ' -> 'Megan Gates'. 
+Line  6162 changes: Purchase amount: '-352.28' -> '352.28'. 
+Line  6163 changes: Id: '-970' -> '6163'. 
+Line  6165 changes: Id: 'nan' -> '6165'. 
+Line  6172 changes: Id: '' -> '6172'. 
+Line  6189 changes: Empty cell: Removed line.
+Line  6190 changes: Empty cell: Removed 1 cell(s). Purchase amount: 'ABC123' -> ''''. 
+Line  6194 changes: Mail: 'jill.smithhotmail.com' -> 'jill.smith@hotmail.com'. 
+Line  6197 changes: Empty cell: Removed 1 cell(s). 
+Line  6198 changes: Id: '-653' -> '6198'. 
+Line  6203 changes: Empty cell: Removed 1 cell(s). 
+Line  6208 changes: Purchase amount: '-127.96' -> '127.96'. 
+Line  6225 changes: Name: '  Matthew Allison   ' -> 'Matthew Allison'. 
+Line  6229 changes: Id: 'nan' -> '6229'. 
+Line  6238 changes: Empty cell: Removed line.
+Line  6240 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  6252 changes: Id: '351' -> '6252'. 
+Line  6253 changes: Mail: 'angela.wallyahoo.com' -> 'angela.wall@yahoo.com'. 
+Line  6262 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  6273 changes: Id: 'nan' -> '6273'. 
+Line  6274 changes: Empty cell: Removed 1 cell(s). 
+Line  6275 changes: Empty cell: Removed 1 cell(s). 
+Line  6276 changes: Empty cell: Removed line.
+Line  6279 changes: Empty cell: Removed 1 cell(s). 
+Line  6280 changes: Empty cell: Removed 1 cell(s). Mail: 'joshua.camposgmail.com' -> 'joshua.campos@gmail.com'. 
+Line  6293 changes: Empty cell: Removed 1 cell(s). Purchase amount: '-264.81' -> '264.81'. 
+Line  6295 changes: Empty cell: Removed 1 cell(s). Id: '-122' -> '6295'. 
+Line  6297 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  6304 changes: Empty cell: Removed 1 cell(s). Purchase amount: '-317.85' -> '317.85'. 
+Line  6334 changes: Empty cell: Removed 1 cell(s). 
+Line  6335 changes: Id: '-17' -> '6335'. 
+Line  6336 changes: Empty cell: Removed line.
+Line  6343 changes: Name: '  Thomas Harris   ' -> 'Thomas Harris'. 
+Line  6345 changes: Empty cell: Removed 1 cell(s). 
+Line  6352 changes: Empty cell: Removed line.
+Line  6353 changes: Empty cell: Removed 1 cell(s). Mail: 'katherine.atkinsgmail.com' -> 'katherine.atkins@gmail.com'. 
+Line  6354 changes: Empty cell: Removed line.
+Line  6363 changes: Id: '1717' -> '6363'. 
+Line  6370 changes: Mail: 'kara.scotthotmail.com' -> 'kara.scott@hotmail.com'. 
+Line  6377 changes: Id: '-928' -> '6377'. 
+Line  6378 changes: Mail: 'george.greenhotmail.com' -> 'george.green@hotmail.com'. 
+Line  6379 changes: Empty cell: Removed line.
+Line  6389 changes: Id: 'nan' -> '6389'. 
+Line  6391 changes: Empty cell: Removed line.
+Line  6408 changes: Empty cell: Removed line.
+Line  6427 changes: Mail: 'jason.mooregmail.com' -> 'jason.moore@gmail.com'. 
+Line  6431 changes: Empty cell: Removed line.
+Line  6433 changes: Id: '3472' -> '6433'. 
+Line  6440 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  6449 changes: Empty cell: Removed line.
+Line  6452 changes: Id: '3432' -> '6452'. 
+Line  6454 changes: Empty cell: Removed line.
+Line  6456 changes: Empty cell: Removed 1 cell(s). 
+Line  6463 changes: Mail: 'kurt.norrishotmail.com' -> 'kurt.norris@hotmail.com'. 
+Line  6466 changes: Empty cell: Removed 1 cell(s). 
+Line  6473 changes: Purchase amount: '-768.73' -> '768.73'. 
+Line  6477 changes: Purchase amount: '-721.89' -> '721.89'. 
+Line  6488 changes: Purchase amount: '-532.34' -> '532.34'. 
+Line  6490 changes: Id: '-590' -> '6490'. Purchase amount: '-260.27' -> '260.27'. 
+Line  6492 changes: Empty cell: Removed line.
+Line  6495 changes: Empty cell: Removed 1 cell(s). 
+Line  6500 changes: Id: 'nan' -> '6500'. 
+Line  6501 changes: Mail: 'melissa.smithgmail.com' -> 'melissa.smith@gmail.com'. 
+Line  6502 changes: Empty cell: Removed line.
+Line  6505 changes: Id: 'nan' -> '6505'. 
+Line  6507 changes: Empty cell: Removed line.
+Line  6512 changes: Name: '  Ryan Campos   ' -> 'Ryan Campos'. 
+Line  6515 changes: Empty cell: Removed 1 cell(s). 
+Line  6516 changes: Empty cell: Removed line.
+Line  6527 changes: Name: '  Deborah Alvarez   ' -> 'Deborah Alvarez'. 
+Line  6533 changes: Id: '' -> '6533'. 
+Line  6545 changes: Empty cell: Removed line.
+Line  6546 changes: Empty cell: Removed line.
+Line  6548 changes: Empty cell: Removed 1 cell(s). 
+Line  6555 changes: Purchase amount: '-835.0' -> '835.0'. 
+Line  6557 changes: Empty cell: Removed line.
+Line  6558 changes: Id: '1263' -> '6558'. 
+Line  6564 changes: Mail: 'michael.charlesyahoo.com' -> 'michael.charles@yahoo.com'. 
+Line  6577 changes: Empty cell: Removed 1 cell(s). 
+Line  6590 changes: Empty cell: Removed 1 cell(s). 
+Line  6591 changes: Id: '' -> '6591'. 
+Line  6594 changes: Id: 'nan' -> '6594'. 
+Line  6599 changes: Id: '-775' -> '6599'. 
+Line  6601 changes: Id: '4497' -> '6601'. 
+Line  6603 changes: Empty cell: Removed line.
+Line  6604 changes: Id: '1794' -> '6604'. Name: '  Michael Booker   ' -> 'Michael Booker'. 
+Line  6605 changes: Id: 'nan' -> '6605'. 
+Line  6615 changes: Empty cell: Removed 1 cell(s). 
+Line  6626 changes: Empty cell: Removed 1 cell(s). Id: 'nan' -> '6626'. 
+Line  6636 changes: Name: '  Marcus Vazquez   ' -> 'Marcus Vazquez'. 
+Line  6643 changes: Id: 'nan' -> '6643'. 
+Line  6649 changes: Empty cell: Removed 1 cell(s). Name: '  Jamie Summers   ' -> 'Jamie Summers'. 
+Line  6655 changes: Empty cell: Removed line.
+Line  6675 changes: Empty cell: Removed 1 cell(s). 
+Line  6687 changes: Empty cell: Removed 1 cell(s). 
+Line  6692 changes: Empty cell: Removed 1 cell(s). Purchase amount: 'ABC123' -> ''''. 
+Line  6697 changes: Empty cell: Removed 1 cell(s). 
+Line  6699 changes: Empty cell: Removed 1 cell(s). 
+Line  6713 changes: Id: '5237' -> '6713'. 
+Line  6722 changes: Mail: 'james.howardgmail.com' -> 'james.howard@gmail.com'. 
+Line  6726 changes: Name: '  Kevin Woods   ' -> 'Kevin Woods'. 
+Line  6737 changes: Id: 'nan' -> '6737'. 
+Line  6738 changes: Empty cell: Removed 1 cell(s). 
+Line  6747 changes: Empty cell: Removed 1 cell(s). 
+Line  6750 changes: Empty cell: Removed line.
+Line  6754 changes: Empty cell: Removed line.
+Line  6760 changes: Empty cell: Removed line.
+Line  6761 changes: Empty cell: Removed 1 cell(s). Id: 'nan' -> '6761'. 
+Line  6762 changes: Empty cell: Removed 1 cell(s). 
+Line  6772 changes: Empty cell: Removed 1 cell(s). 
+Line  6773 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  6777 changes: Id: '-17' -> '6777'. 
+Line  6781 changes: Empty cell: Removed line.
+Line  6792 changes: Mail: 'hunter.murphyyahoo.com' -> 'hunter.murphy@yahoo.com'. 
+Line  6796 changes: Empty cell: Removed line.
+Line  6803 changes: Id: '-838' -> '6803'. 
+Line  6821 changes: Empty cell: Removed 1 cell(s). 
+Line  6825 changes: Id: '-17' -> '6825'. 
+Line  6826 changes: Empty cell: Removed line.
+Line  6831 changes: Empty cell: Removed line.
+Line  6833 changes: Empty cell: Removed 1 cell(s). 
+Line  6846 changes: Empty cell: Removed line.
+Line  6849 changes: Mail: 'angela.danielhotmail.com' -> 'angela.daniel@hotmail.com'. 
+Line  6857 changes: Id: '-283' -> '6857'. 
+Line  6858 changes: Empty cell: Removed 1 cell(s). 
+Line  6859 changes: Empty cell: Removed line.
+Line  6860 changes: Id: '5565' -> '6860'. 
+Line  6866 changes: Id: '' -> '6866'. 
+Line  6868 changes: Empty cell: Removed line.
+Line  6877 changes: Id: '863' -> '6877'. 
+Line  6880 changes: Name: '  Stacey Conrad   ' -> 'Stacey Conrad'. 
+Line  6882 changes: Id: '-18' -> '6882'. 
+Line  6889 changes: Empty cell: Removed 1 cell(s). 
+Line  6893 changes: Empty cell: Removed 1 cell(s). 
+Line  6899 changes: Mail: 'lisa.thompsongmail.com' -> 'lisa.thompson@gmail.com'. 
+Line  6900 changes: Empty cell: Removed line.
+Line  6901 changes: Empty cell: Removed line.
+Line  6905 changes: Empty cell: Removed 1 cell(s). 
+Line  6914 changes: Empty cell: Removed line.
+Line  6915 changes: Id: '-725' -> '6915'. 
+Line  6916 changes: Empty cell: Removed line.
+Line  6919 changes: Empty cell: Removed 1 cell(s). 
+Line  6923 changes: Name: '  Jesse Fitzgerald   ' -> 'Jesse Fitzgerald'. 
+Line  6924 changes: Empty cell: Removed 1 cell(s). 
+Line  6932 changes: Empty cell: Removed 1 cell(s). 
+Line  6942 changes: Empty cell: Removed line.
+Line  6943 changes: Id: '' -> '6943'. 
+Line  6945 changes: Id: 'nan' -> '6945'. 
+Line  6947 changes: Empty cell: Removed line.
+Line  6953 changes: Mail: 'dr..joshuayahoo.com' -> 'dr..joshua@yahoo.com'. 
+Line  6955 changes: Mail: 'jacob.wilsongmail.com' -> 'jacob.wilson@gmail.com'. 
+Line  6963 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  6965 changes: Id: '' -> '6965'. 
+Line  6970 changes: Id: '' -> '6970'. 
+Line  6971 changes: Empty cell: Removed 1 cell(s). 
+Line  6972 changes: Name: '  David Sullivan   ' -> 'David Sullivan'. 
+Line  6976 changes: Empty cell: Removed line.
+Line  6983 changes: Id: 'nan' -> '6983'. 
+Line  6990 changes: Empty cell: Removed 1 cell(s). 
+Line  6991 changes: Id: '' -> '6991'. 
+Line  6997 changes: Id: '' -> '6997'. 
+Line  7001 changes: Purchase amount: '-122.9' -> '122.9'. 
+Line  7016 changes: Id: '267' -> '7016'. 
+Line  7023 changes: Empty cell: Removed line.
+Line  7031 changes: Id: '4940' -> '7031'. 
+Line  7034 changes: Id: '' -> '7034'. 
+Line  7035 changes: Empty cell: Removed 1 cell(s). 
+Line  7053 changes: Empty cell: Removed line.
+Line  7055 changes: Mail: 'diana.ibarrahotmail.com' -> 'diana.ibarra@hotmail.com'. 
+Line  7057 changes: Empty cell: Removed line.
+Line  7076 changes: Empty cell: Removed line.
+Line  7077 changes: Id: '-813' -> '7077'. 
+Line  7078 changes: Empty cell: Removed line.
+Line  7080 changes: Empty cell: Removed line.
+Line  7085 changes: Id: '5382' -> '7085'. 
+Line  7090 changes: Mail: 'denise.crossgmail.com' -> 'denise.cross@gmail.com'. 
+Line  7095 changes: Empty cell: Removed line.
+Line  7105 changes: Empty cell: Removed 1 cell(s). 
+Line  7109 changes: Empty cell: Removed 1 cell(s). Id: 'nan' -> '7109'. Purchase amount: 'ABC123' -> ''''. 
+Line  7110 changes: Empty cell: Removed 1 cell(s). 
+Line  7111 changes: Name: '  William Cobb   ' -> 'William Cobb'. 
+Line  7125 changes: Empty cell: Removed 1 cell(s). 
+Line  7129 changes: Empty cell: Removed line.
+Line  7131 changes: Id: '' -> '7131'. 
+Line  7145 changes: Name: '  Jimmy Alvarez   ' -> 'Jimmy Alvarez'. Purchase amount: '-912.42' -> '912.42'. 
+Line  7146 changes: Id: '5071' -> '7146'. 
+Line  7147 changes: Empty cell: Removed 1 cell(s). 
+Line  7150 changes: Empty cell: Removed line.
+Line  7152 changes: Id: '985' -> '7152'. 
+Line  7154 changes: Empty cell: Removed 1 cell(s). 
+Line  7155 changes: Empty cell: Removed 1 cell(s). 
+Line  7157 changes: Mail: 'fernando.meltonhotmail.com' -> 'fernando.melton@hotmail.com'. 
+Line  7163 changes: Empty cell: Removed line.
+Line  7164 changes: Empty cell: Removed 1 cell(s). 
+Line  7193 changes: Name: '  Ronald Grant   ' -> 'Ronald Grant'. Mail: 'ronald.granthotmail.com' -> 'ronald.grant@hotmail.com'. 
+Line  7196 changes: Id: '' -> '7196'. 
+Line  7197 changes: Empty cell: Removed 1 cell(s). 
+Line  7221 changes: Id: '-689' -> '7221'. 
+Line  7224 changes: Empty cell: Removed line.
+Line  7225 changes: Id: '' -> '7225'. 
+Line  7226 changes: Id: '4964' -> '7226'. Name: '  Jocelyn Watts   ' -> 'Jocelyn Watts'. 
+Line  7228 changes: Name: '  Dr. Brent Nguyen MD   ' -> 'Dr. Brent Nguyen MD'. 
+Line  7239 changes: Purchase amount: '-903.98' -> '903.98'. 
+Line  7247 changes: Id: '-786' -> '7247'. Purchase amount: '-513.66' -> '513.66'. 
+Line  7248 changes: Id: '' -> '7248'. 
+Line  7249 changes: Empty cell: Removed line.
+Line  7256 changes: Mail: 'gregory.murraygmail.com' -> 'gregory.murray@gmail.com'. 
+Line  7261 changes: Empty cell: Removed 1 cell(s). 
+Line  7262 changes: Empty cell: Removed 1 cell(s). 
+Line  7270 changes: Mail: 'cynthia.griffinyahoo.com' -> 'cynthia.griffin@yahoo.com'. 
+Line  7277 changes: Empty cell: Removed line.
+Line  7282 changes: Empty cell: Removed 1 cell(s). 
+Line  7286 changes: Id: 'nan' -> '7286'. 
+Line  7290 changes: Empty cell: Removed 1 cell(s). 
+Line  7294 changes: Empty cell: Removed line.
+Line  7296 changes: Empty cell: Removed line.
+Line  7300 changes: Empty cell: Removed 1 cell(s). 
+Line  7309 changes: Name: '  Molly Mayo   ' -> 'Molly Mayo'. 
+Line  7317 changes: Empty cell: Removed line.
+Line  7323 changes: Empty cell: Removed line.
+Line  7342 changes: Purchase amount: '-76.32' -> '76.32'. 
+Line  7343 changes: Empty cell: Removed line.
+Line  7345 changes: Id: '' -> '7345'. 
+Line  7349 changes: Empty cell: Removed line.
+Line  7352 changes: Id: '' -> '7352'. 
+Line  7354 changes: Id: 'nan' -> '7354'. 
+Line  7366 changes: Empty cell: Removed 1 cell(s). 
+Line  7368 changes: Id: 'nan' -> '7368'. 
+Line  7379 changes: Id: '' -> '7379'. Mail: 'michael.vanceyahoo.com' -> 'michael.vance@yahoo.com'. 
+Line  7382 changes: Empty cell: Removed 1 cell(s). 
+Line  7385 changes: Empty cell: Removed line.
+Line  7386 changes: Empty cell: Removed 1 cell(s). 
+Line  7391 changes: Empty cell: Removed 1 cell(s). 
+Line  7396 changes: Empty cell: Removed line.
+Line  7404 changes: Empty cell: Removed 1 cell(s). 
+Line  7418 changes: Empty cell: Removed 1 cell(s). 
+Line  7421 changes: Empty cell: Removed line.
+Line  7422 changes: Empty cell: Removed 1 cell(s). 
+Line  7427 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  7432 changes: Empty cell: Removed line.
+Line  7439 changes: Id: 'nan' -> '7439'. 
+Line  7443 changes: Empty cell: Removed 1 cell(s). 
+Line  7456 changes: Empty cell: Removed line.
+Line  7464 changes: Empty cell: Removed 1 cell(s). 
+Line  7465 changes: Empty cell: Removed 1 cell(s). 
+Line  7467 changes: Id: '8' -> '7467'. 
+Line  7472 changes: Purchase amount: '-748.91' -> '748.91'. 
+Line  7480 changes: Empty cell: Removed 1 cell(s). 
+Line  7494 changes: Empty cell: Removed line.
+Line  7498 changes: Name: '  Jessica Gilbert   ' -> 'Jessica Gilbert'. 
+Line  7500 changes: Purchase amount: '-208.34' -> '208.34'. 
+Line  7502 changes: Empty cell: Removed line.
+Line  7504 changes: Empty cell: Removed line.
+Line  7505 changes: Id: '6718' -> '7505'. 
+Line  7506 changes: Empty cell: Removed 1 cell(s). 
+Line  7513 changes: Empty cell: Removed line.
+Line  7525 changes: Empty cell: Removed 1 cell(s). 
+Line  7529 changes: Empty cell: Removed 1 cell(s). 
+Line  7544 changes: Id: 'nan' -> '7544'. Name: '  Barbara Miller   ' -> 'Barbara Miller'. 
+Line  7550 changes: Empty cell: Removed line.
+Line  7553 changes: Empty cell: Removed line.
+Line  7562 changes: Empty cell: Removed line.
+Line  7566 changes: Empty cell: Removed 1 cell(s). 
+Line  7576 changes: Id: '1499' -> '7576'. 
+Line  7580 changes: Empty cell: Removed 1 cell(s). Name: '  Melissa Hicks   ' -> 'Melissa Hicks'. 
+Line  7587 changes: Empty cell: Removed 1 cell(s). 
+Line  7590 changes: Empty cell: Removed line.
+Line  7592 changes: Empty cell: Removed line.
+Line  7593 changes: Id: '' -> '7593'. 
+Line  7596 changes: Name: '  Thomas Brennan   ' -> 'Thomas Brennan'. 
+Line  7599 changes: Id: '-789' -> '7599'. 
+Line  7602 changes: Empty cell: Removed line.
+Line  7603 changes: Empty cell: Removed line.
+Line  7604 changes: Empty cell: Removed 1 cell(s). 
+Line  7606 changes: Id: '' -> '7606'. 
+Line  7613 changes: Empty cell: Removed 1 cell(s). 
+Line  7616 changes: Purchase amount: '-381.6' -> '381.6'. 
+Line  7617 changes: Empty cell: Removed 1 cell(s). 
+Line  7620 changes: Empty cell: Removed 1 cell(s). 
+Line  7630 changes: Name: '  Melissa English   ' -> 'Melissa English'. 
+Line  7651 changes: Purchase amount: '-419.71' -> '419.71'. 
+Line  7656 changes: Id: '-960' -> '7656'. 
+Line  7657 changes: Empty cell: Removed 1 cell(s). 
+Line  7666 changes: Id: '' -> '7666'. 
+Line  7670 changes: Empty cell: Removed 1 cell(s). 
+Line  7681 changes: Id: '5608' -> '7681'. 
+Line  7685 changes: Empty cell: Removed line.
+Line  7692 changes: Empty cell: Removed 1 cell(s). 
+Line  7693 changes: Mail: 'jonathan.wrightyahoo.com' -> 'jonathan.wright@yahoo.com'. 
+Line  7696 changes: Id: '4181' -> '7696'. 
+Line  7697 changes: Mail: 'john.jonesgmail.com' -> 'john.jones@gmail.com'. 
+Line  7698 changes: Empty cell: Removed 1 cell(s). Id: 'Jared Sanchez' -> '7698'. 
+Line  7700 changes: Empty cell: Removed 1 cell(s). 
+Line  7703 changes: Empty cell: Removed 1 cell(s). 
+Line  7710 changes: Id: '1643' -> '7710'. 
+Line  7712 changes: Purchase amount: '-230.64' -> '230.64'. 
+Line  7713 changes: Empty cell: Removed 1 cell(s). 
+Line  7714 changes: Empty cell: Removed 1 cell(s). 
+Line  7721 changes: Empty cell: Removed 1 cell(s). 
+Line  7723 changes: Id: '1652' -> '7723'. 
+Line  7726 changes: Id: '13' -> '7726'. 
+Line  7731 changes: Id: '' -> '7731'. 
+Line  7737 changes: Empty cell: Removed 1 cell(s). 
+Line  7745 changes: Empty cell: Removed line.
+Line  7760 changes: Empty cell: Removed 1 cell(s). 
+Line  7776 changes: Empty cell: Removed 1 cell(s). 
+Line  7786 changes: Empty cell: Removed 1 cell(s). 
+Line  7788 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  7791 changes: Empty cell: Removed line.
+Line  7803 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  7808 changes: Purchase amount: '-17.09' -> '17.09'. 
+Line  7810 changes: Name: '  Brenda Lucero   ' -> 'Brenda Lucero'. 
+Line  7815 changes: Id: '-855' -> '7815'. 
+Line  7816 changes: Empty cell: Removed line.
+Line  7822 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  7828 changes: Mail: 'matthew.bryanthotmail.com' -> 'matthew.bryant@hotmail.com'. 
+Line  7831 changes: Empty cell: Removed 1 cell(s). Id: '-700' -> '7831'. Mail: 'daniel.grahamyahoo.com' -> 'daniel.graham@yahoo.com'. 
+Line  7836 changes: Mail: 'kelsey.medinahotmail.com' -> 'kelsey.medina@hotmail.com'. 
+Line  7837 changes: Id: 'nan' -> '7837'. 
+Line  7840 changes: Empty cell: Removed 1 cell(s). 
+Line  7843 changes: Empty cell: Removed 1 cell(s). 
+Line  7845 changes: Name: '  Hannah Stewart   ' -> 'Hannah Stewart'. 
+Line  7846 changes: Empty cell: Removed line.
+Line  7852 changes: Empty cell: Removed line.
+Line  7854 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  7862 changes: Empty cell: Removed line.
+Line  7864 changes: Empty cell: Removed 1 cell(s). 
+Line  7880 changes: Purchase amount: '-374.95' -> '374.95'. 
+Line  7884 changes: Empty cell: Removed 1 cell(s). 
+Line  7892 changes: Id: '' -> '7892'. 
+Line  7901 changes: Empty cell: Removed 1 cell(s). 
+Line  7903 changes: Empty cell: Removed line.
+Line  7907 changes: Mail: 'tanya.gonzalezhotmail.com' -> 'tanya.gonzalez@hotmail.com'. 
+Line  7910 changes: Purchase amount: '-236.75' -> '236.75'. 
+Line  7913 changes: Id: 'nan' -> '7913'. 
+Line  7914 changes: Empty cell: Removed 1 cell(s). 
+Line  7926 changes: Empty cell: Removed line.
+Line  7930 changes: Empty cell: Removed line.
+Line  7934 changes: Empty cell: Removed 1 cell(s). 
+Line  7947 changes: Empty cell: Removed 1 cell(s). 
+Line  7953 changes: Empty cell: Removed 1 cell(s). Id: '6739' -> '7953'. 
+Line  7960 changes: Empty cell: Removed line.
+Line  7971 changes: Id: '' -> '7971'. 
+Line  7976 changes: Empty cell: Removed 1 cell(s). 
+Line  7978 changes: Empty cell: Removed 1 cell(s). 
+Line  7982 changes: Purchase amount: '-282.98' -> '282.98'. 
+Line  7986 changes: Id: '' -> '7986'. 
+Line  7989 changes: Empty cell: Removed line.
+Line  7993 changes: Name: '  Ann Knox   ' -> 'Ann Knox'. 
+Line  7996 changes: Empty cell: Removed 1 cell(s). Id: '4537' -> '7996'. 
+Line  8010 changes: Id: '-303' -> '8010'. 
+Line  8019 changes: Id: '7037' -> '8019'. 
+Line  8033 changes: Id: '-25' -> '8033'. 
+Line  8034 changes: Empty cell: Removed line.
+Line  8035 changes: Mail: 'james.hermanyahoo.com' -> 'james.herman@yahoo.com'. 
+Line  8045 changes: Empty cell: Removed 1 cell(s). 
+Line  8049 changes: Empty cell: Removed line.
+Line  8050 changes: Empty cell: Removed 1 cell(s). Purchase amount: 'ABC123' -> ''''. 
+Line  8057 changes: Id: '7659' -> '8057'. 
+Line  8064 changes: Id: '' -> '8064'. 
+Line  8079 changes: Empty cell: Removed line.
+Line  8080 changes: Empty cell: Removed 1 cell(s). 
+Line  8081 changes: Empty cell: Removed line.
+Line  8090 changes: Empty cell: Removed 1 cell(s). 
+Line  8092 changes: Id: '5518' -> '8092'. 
+Line  8095 changes: Empty cell: Removed 1 cell(s). 
+Line  8100 changes: Empty cell: Removed 1 cell(s). 
+Line  8101 changes: Empty cell: Removed 1 cell(s). 
+Line  8103 changes: Purchase amount: '-691.2' -> '691.2'. 
+Line  8121 changes: Id: '4525' -> '8121'. 
+Line  8123 changes: Empty cell: Removed 1 cell(s). 
+Line  8134 changes: Id: '' -> '8134'. 
+Line  8136 changes: Empty cell: Removed 1 cell(s). 
+Line  8138 changes: Mail: 'howard.kentyahoo.com' -> 'howard.kent@yahoo.com'. 
+Line  8153 changes: Empty cell: Removed line.
+Line  8154 changes: Id: '-949' -> '8154'. 
+Line  8161 changes: Name: '  Lori Ochoa   ' -> 'Lori Ochoa'. 
+Line  8162 changes: Empty cell: Removed line.
+Line  8163 changes: Empty cell: Removed 1 cell(s). 
+Line  8167 changes: Purchase amount: '-658.77' -> '658.77'. 
+Line  8169 changes: Empty cell: Removed 1 cell(s). 
+Line  8171 changes: Empty cell: Removed line.
+Line  8173 changes: Name: '  Kathryn Fisher   ' -> 'Kathryn Fisher'. 
+Line  8176 changes: Purchase amount: '-929.18' -> '929.18'. 
+Line  8190 changes: Empty cell: Removed 1 cell(s). 
+Line  8208 changes: Empty cell: Removed line.
+Line  8210 changes: Id: '5259' -> '8210'. 
+Line  8214 changes: Id: 'nan' -> '8214'. 
+Line  8215 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  8217 changes: Name: '  Laurie Graves   ' -> 'Laurie Graves'. 
+Line  8222 changes: Empty cell: Removed line.
+Line  8229 changes: Mail: 'kimberly.jenningsyahoo.com' -> 'kimberly.jennings@yahoo.com'. 
+Line  8233 changes: Empty cell: Removed line.
+Line  8235 changes: Empty cell: Removed 1 cell(s). 
+Line  8246 changes: Id: 'nan' -> '8246'. 
+Line  8247 changes: Id: '-263' -> '8247'. 
+Line  8248 changes: Empty cell: Removed 1 cell(s). 
+Line  8253 changes: Id: 'nan' -> '8253'. 
+Line  8255 changes: Empty cell: Removed line.
+Line  8267 changes: Empty cell: Removed line.
+Line  8273 changes: Id: '-382' -> '8273'. 
+Line  8285 changes: Empty cell: Removed 1 cell(s). 
+Line  8292 changes: Empty cell: Removed 1 cell(s). 
+Line  8295 changes: Empty cell: Removed line.
+Line  8297 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  8310 changes: Empty cell: Removed line.
+Line  8311 changes: Empty cell: Removed line.
+Line  8313 changes: Empty cell: Removed 1 cell(s). 
+Line  8315 changes: Empty cell: Removed line.
+Line  8317 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  8323 changes: Empty cell: Removed 1 cell(s). 
+Line  8326 changes: Mail: 'luis.lopezyahoo.com' -> 'luis.lopez@yahoo.com'. 
+Line  8327 changes: Empty cell: Removed line.
+Line  8342 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  8343 changes: Mail: 'melissa.zunigayahoo.com' -> 'melissa.zuniga@yahoo.com'. 
+Line  8344 changes: Empty cell: Removed 1 cell(s). 
+Line  8363 changes: Empty cell: Removed line.
+Line  8370 changes: Purchase amount: '-606.08' -> '606.08'. 
+Line  8374 changes: Purchase amount: '-818.56' -> '818.56'. 
+Line  8380 changes: Empty cell: Removed 1 cell(s). 
+Line  8381 changes: Mail: 'pamela.nashgmail.com' -> 'pamela.nash@gmail.com'. 
+Line  8387 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  8395 changes: Empty cell: Removed line.
+Line  8396 changes: Empty cell: Removed 1 cell(s). 
+Line  8407 changes: Empty cell: Removed 1 cell(s). 
+Line  8408 changes: Id: '5238' -> '8408'. 
+Line  8412 changes: Empty cell: Removed 1 cell(s). 
+Line  8413 changes: Empty cell: Removed 1 cell(s). 
+Line  8415 changes: Id: 'nan' -> '8415'. 
+Line  8419 changes: Empty cell: Removed 1 cell(s). 
+Line  8429 changes: Empty cell: Removed 1 cell(s). 
+Line  8433 changes: Id: '-224' -> '8433'. 
+Line  8434 changes: Empty cell: Removed line.
+Line  8436 changes: Id: '-844' -> '8436'. 
+Line  8437 changes: Empty cell: Removed line.
+Line  8447 changes: Empty cell: Removed 1 cell(s). 
+Line  8455 changes: Empty cell: Removed line.
+Line  8458 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  8469 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  8491 changes: Empty cell: Removed line.
+Line  8493 changes: Empty cell: Removed line.
+Line  8496 changes: Purchase amount: '-505.75' -> '505.75'. 
+Line  8498 changes: Id: '2849' -> '8498'. 
+Line  8518 changes: Empty cell: Removed line.
+Line  8521 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  8522 changes: Empty cell: Removed 1 cell(s). 
+Line  8523 changes: Id: '8128' -> '8523'. 
+Line  8526 changes: Id: '-661' -> '8526'. 
+Line  8542 changes: Empty cell: Removed line.
+Line  8546 changes: Empty cell: Removed 1 cell(s). 
+Line  8554 changes: Empty cell: Removed line.
+Line  8562 changes: Id: '-658' -> '8562'. 
+Line  8563 changes: Id: '906' -> '8563'. 
+Line  8566 changes: Empty cell: Removed 1 cell(s). 
+Line  8573 changes: Id: '' -> '8573'. 
+Line  8578 changes: Empty cell: Removed 1 cell(s). 
+Line  8579 changes: Mail: 'ryan.klinehotmail.com' -> 'ryan.kline@hotmail.com'. 
+Line  8581 changes: Id: 'nan' -> '8581'. 
+Line  8584 changes: Empty cell: Removed 1 cell(s). Purchase amount: 'ABC123' -> ''''. 
+Line  8588 changes: Id: '-931' -> '8588'. 
+Line  8589 changes: Empty cell: Removed 1 cell(s). Purchase amount: 'ABC123' -> ''''. 
+Line  8595 changes: Empty cell: Removed line.
+Line  8602 changes: Empty cell: Removed line.
+Line  8604 changes: Empty cell: Removed line.
+Line  8605 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  8609 changes: Empty cell: Removed 1 cell(s). 
+Line  8616 changes: Id: '-908' -> '8616'. 
+Line  8621 changes: Empty cell: Removed line.
+Line  8629 changes: Empty cell: Removed line.
+Line  8632 changes: Empty cell: Removed line.
+Line  8634 changes: Id: '' -> '8634'. 
+Line  8635 changes: Empty cell: Removed 1 cell(s). 
+Line  8637 changes: Purchase amount: '-417.46' -> '417.46'. 
+Line  8644 changes: Purchase amount: '-745.8' -> '745.8'. 
+Line  8652 changes: Name: '  Kimberly Ramirez   ' -> 'Kimberly Ramirez'. 
+Line  8655 changes: Empty cell: Removed 1 cell(s). 
+Line  8657 changes: Empty cell: Removed 1 cell(s). Purchase amount: '-825.7' -> '825.7'. 
+Line  8660 changes: Empty cell: Removed line.
+Line  8662 changes: Name: '  Dorothy Lutz   ' -> 'Dorothy Lutz'. 
+Line  8666 changes: Mail: 'nicholas.hardinhotmail.com' -> 'nicholas.hardin@hotmail.com'. 
+Line  8668 changes: Empty cell: Removed line.
+Line  8670 changes: Mail: 'nicole.oconnoryahoo.com' -> 'nicole.oconnor@yahoo.com'. 
+Line  8676 changes: Id: '' -> '8676'. 
+Line  8678 changes: Id: '6183' -> '8678'. 
+Line  8679 changes: Empty cell: Removed line.
+Line  8683 changes: Id: '7129' -> '8683'. 
+Line  8693 changes: Empty cell: Removed line.
+Line  8707 changes: Empty cell: Removed line.
+Line  8708 changes: Empty cell: Removed line.
+Line  8712 changes: Mail: 'christina.morangmail.com' -> 'christina.moran@gmail.com'. 
+Line  8715 changes: Empty cell: Removed 1 cell(s). 
+Line  8717 changes: Empty cell: Removed 1 cell(s). 
+Line  8719 changes: Empty cell: Removed line.
+Line  8722 changes: Id: 'nan' -> '8722'. 
+Line  8733 changes: Empty cell: Removed 1 cell(s). 
+Line  8741 changes: Empty cell: Removed 1 cell(s). 
+Line  8745 changes: Id: '6437' -> '8745'. 
+Line  8751 changes: Id: '' -> '8751'. 
+Line  8756 changes: Id: '8603' -> '8756'. 
+Line  8772 changes: Empty cell: Removed line.
+Line  8781 changes: Empty cell: Removed line.
+Line  8784 changes: Empty cell: Removed 1 cell(s). 
+Line  8785 changes: Empty cell: Removed line.
+Line  8797 changes: Mail: 'darren.andersonhotmail.com' -> 'darren.anderson@hotmail.com'. 
+Line  8798 changes: Name: '  Kristin Wall   ' -> 'Kristin Wall'. 
+Line  8800 changes: Empty cell: Removed line.
+Line  8817 changes: Empty cell: Removed line.
+Line  8826 changes: Empty cell: Removed 1 cell(s). Id: '' -> '8826'. 
+Line  8828 changes: Id: '' -> '8828'. Purchase amount: 'ABC123' -> ''''. 
+Line  8838 changes: Empty cell: Removed line.
+Line  8839 changes: Empty cell: Removed line.
+Line  8845 changes: Empty cell: Removed 1 cell(s). 
+Line  8853 changes: Purchase amount: '-835.49' -> '835.49'. 
+Line  8855 changes: Empty cell: Removed line.
+Line  8857 changes: Id: '' -> '8857'. 
+Line  8859 changes: Id: '2705' -> '8859'. 
+Line  8861 changes: Mail: 'timothy.rodriguezhotmail.com' -> 'timothy.rodriguez@hotmail.com'. 
+Line  8864 changes: Empty cell: Removed line.
+Line  8865 changes: Empty cell: Removed line.
+Line  8870 changes: Name: '  Terrance Parker   ' -> 'Terrance Parker'. 
+Line  8874 changes: Id: '' -> '8874'. 
+Line  8875 changes: Empty cell: Removed line.
+Line  8883 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  8885 changes: Empty cell: Removed line.
+Line  8892 changes: Empty cell: Removed 1 cell(s). 
+Line  8899 changes: Empty cell: Removed 1 cell(s). 
+Line  8902 changes: Purchase amount: '-646.15' -> '646.15'. 
+Line  8906 changes: Mail: 'jennifer.braunyahoo.com' -> 'jennifer.braun@yahoo.com'. 
+Line  8907 changes: Empty cell: Removed line.
+Line  8910 changes: Empty cell: Removed line.
+Line  8914 changes: Id: '6733' -> '8914'. 
+Line  8915 changes: Mail: 'jennifer.simpsonhotmail.com' -> 'jennifer.simpson@hotmail.com'. 
+Line  8921 changes: Empty cell: Removed 1 cell(s). 
+Line  8922 changes: Id: 'nan' -> '8922'. 
+Line  8942 changes: Id: '-52' -> '8942'. 
+Line  8947 changes: Empty cell: Removed 1 cell(s). 
+Line  8949 changes: Empty cell: Removed line.
+Line  8950 changes: Name: '  Kevin Reed   ' -> 'Kevin Reed'. 
+Line  8955 changes: Empty cell: Removed 1 cell(s). 
+Line  8958 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  8964 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  8970 changes: Empty cell: Removed line.
+Line  8977 changes: Purchase amount: '-804.0' -> '804.0'. 
+Line  8979 changes: Empty cell: Removed 1 cell(s). Id: 'nan' -> '8979'. 
+Line  8981 changes: Purchase amount: '-824.56' -> '824.56'. 
+Line  8989 changes: Empty cell: Removed 1 cell(s). 
+Line  8990 changes: Id: 'nan' -> '8990'. 
+Line  8991 changes: Empty cell: Removed line.
+Line  8992 changes: Id: '-404' -> '8992'. 
+Line  9000 changes: Id: '-247' -> '9000'. 
+Line  9004 changes: Mail: 'amy.stonegmail.com' -> 'amy.stone@gmail.com'. 
+Line  9005 changes: Id: '-990' -> '9005'. 
+Line  9007 changes: Empty cell: Removed line.
+Line  9017 changes: Name: '  Kimberly Jones   ' -> 'Kimberly Jones'. 
+Line  9023 changes: Id: '2460' -> '9023'. 
+Line  9026 changes: Empty cell: Removed line.
+Line  9027 changes: Id: '-553' -> '9027'. 
+Line  9033 changes: Empty cell: Removed 1 cell(s). 
+Line  9037 changes: Mail: 'kelly.ortizgmail.com' -> 'kelly.ortiz@gmail.com'. 
+Line  9043 changes: Mail: 'michael.mccarthyyahoo.com' -> 'michael.mccarthy@yahoo.com'. 
+Line  9047 changes: Id: '' -> '9047'. 
+Line  9048 changes: Empty cell: Removed line.
+Line  9049 changes: Empty cell: Removed 1 cell(s). 
+Line  9054 changes: Empty cell: Removed line.
+Line  9055 changes: Empty cell: Removed 1 cell(s). 
+Line  9056 changes: Id: '7078' -> '9056'. 
+Line  9057 changes: Empty cell: Removed 1 cell(s). 
+Line  9067 changes: Id: 'nan' -> '9067'. 
+Line  9072 changes: Empty cell: Removed line.
+Line  9082 changes: Id: '' -> '9082'. 
+Line  9093 changes: Mail: 'susan.leonardgmail.com' -> 'susan.leonard@gmail.com'. 
+Line  9096 changes: Id: '-736' -> '9096'. 
+Line  9102 changes: Empty cell: Removed line.
+Line  9104 changes: Id: '' -> '9104'. 
+Line  9115 changes: Id: 'nan' -> '9115'. 
+Line  9116 changes: Id: 'nan' -> '9116'. 
+Line  9118 changes: Empty cell: Removed line.
+Line  9120 changes: Empty cell: Removed 1 cell(s). 
+Line  9121 changes: Empty cell: Removed 1 cell(s). 
+Line  9122 changes: Empty cell: Removed line.
+Line  9125 changes: Empty cell: Removed 1 cell(s). 
+Line  9126 changes: Purchase amount: '-360.98' -> '360.98'. 
+Line  9130 changes: Empty cell: Removed line.
+Line  9143 changes: Empty cell: Removed line.
+Line  9144 changes: Name: '  Tracy Zimmerman   ' -> 'Tracy Zimmerman'. 
+Line  9147 changes: Empty cell: Removed 1 cell(s). 
+Line  9151 changes: Empty cell: Removed line.
+Line  9153 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  9155 changes: Empty cell: Removed 1 cell(s). 
+Line  9166 changes: Id: '-332' -> '9166'. 
+Line  9167 changes: Id: '' -> '9167'. Mail: 'amy.hallhotmail.com' -> 'amy.hall@hotmail.com'. 
+Line  9170 changes: Empty cell: Removed 1 cell(s). 
+Line  9177 changes: Id: 'nan' -> '9177'. 
+Line  9190 changes: Empty cell: Removed line.
+Line  9192 changes: Id: '4610' -> '9192'. 
+Line  9193 changes: Empty cell: Removed 1 cell(s). 
+Line  9194 changes: Id: 'nan' -> '9194'. 
+Line  9201 changes: Mail: 'timothy.serranoyahoo.com' -> 'timothy.serrano@yahoo.com'. 
+Line  9204 changes: Empty cell: Removed line.
+Line  9220 changes: Empty cell: Removed 1 cell(s). 
+Line  9226 changes: Empty cell: Removed line.
+Line  9230 changes: Empty cell: Removed line.
+Line  9231 changes: Purchase amount: '-76.03' -> '76.03'. 
+Line  9234 changes: Empty cell: Removed line.
+Line  9245 changes: Name: '  David Peterson   ' -> 'David Peterson'. 
+Line  9249 changes: Empty cell: Removed 1 cell(s). 
+Line  9252 changes: Empty cell: Removed 1 cell(s). 
+Line  9255 changes: Empty cell: Removed line.
+Line  9261 changes: Empty cell: Removed line.
+Line  9271 changes: Empty cell: Removed line.
+Line  9285 changes: Empty cell: Removed 1 cell(s). 
+Line  9286 changes: Id: 'nan' -> '9286'. 
+Line  9295 changes: Empty cell: Removed 1 cell(s). 
+Line  9303 changes: Empty cell: Removed 1 cell(s). 
+Line  9309 changes: Empty cell: Removed line.
+Line  9311 changes: Empty cell: Removed line.
+Line  9320 changes: Id: '' -> '9320'. 
+Line  9323 changes: Empty cell: Removed 1 cell(s). 
+Line  9332 changes: Empty cell: Removed 1 cell(s). 
+Line  9338 changes: Name: '  Mrs. Emily Thomas   ' -> 'Mrs. Emily Thomas'. 
+Line  9347 changes: Empty cell: Removed line.
+Line  9349 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  9351 changes: Name: '  Deborah Patterson   ' -> 'Deborah Patterson'. Purchase amount: 'ABC123' -> ''''. 
+Line  9354 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  9358 changes: Mail: 'kayla.davishotmail.com' -> 'kayla.davis@hotmail.com'. 
+Line  9364 changes: Name: '  John Graham   ' -> 'John Graham'. 
+Line  9365 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  9369 changes: Empty cell: Removed line.
+Line  9372 changes: Id: '' -> '9372'. 
+Line  9374 changes: Empty cell: Removed line.
+Line  9386 changes: Id: '9306' -> '9386'. 
+Line  9387 changes: Id: '6548' -> '9387'. 
+Line  9418 changes: Empty cell: Removed line.
+Line  9419 changes: Name: '  Brandon Hutchinson   ' -> 'Brandon Hutchinson'. 
+Line  9424 changes: Name: '  Kayla Kim   ' -> 'Kayla Kim'. 
+Line  9438 changes: Empty cell: Removed 1 cell(s). 
+Line  9442 changes: Empty cell: Removed 1 cell(s). Purchase amount: '-182.22' -> '182.22'. 
+Line  9443 changes: Empty cell: Removed 1 cell(s). 
+Line  9446 changes: Purchase amount: '-667.34' -> '667.34'. 
+Line  9453 changes: Empty cell: Removed 1 cell(s). 
+Line  9458 changes: Empty cell: Removed line.
+Line  9467 changes: Id: '4794' -> '9467'. 
+Line  9471 changes: Purchase amount: '-699.53' -> '699.53'. 
+Line  9476 changes: Id: '7232' -> '9476'. 
+Line  9479 changes: Id: '3583' -> '9479'. 
+Line  9491 changes: Empty cell: Removed 1 cell(s). Id: '2954' -> '9491'. 
+Line  9493 changes: Empty cell: Removed 1 cell(s). 
+Line  9505 changes: Empty cell: Removed line.
+Line  9506 changes: Empty cell: Removed line.
+Line  9515 changes: Empty cell: Removed line.
+Line  9518 changes: Empty cell: Removed 1 cell(s). 
+Line  9527 changes: Id: '5303' -> '9527'. 
+Line  9533 changes: Empty cell: Removed 1 cell(s). 
+Line  9534 changes: Empty cell: Removed 1 cell(s). 
+Line  9537 changes: Empty cell: Removed 1 cell(s). 
+Line  9541 changes: Id: '-150' -> '9541'. 
+Line  9544 changes: Id: '' -> '9544'. 
+Line  9545 changes: Empty cell: Removed 1 cell(s). 
+Line  9553 changes: Empty cell: Removed 1 cell(s). 
+Line  9555 changes: Empty cell: Removed line.
+Line  9557 changes: Empty cell: Removed line.
+Line  9559 changes: Name: '  Jonathan Mcdonald   ' -> 'Jonathan Mcdonald'. 
+Line  9570 changes: Id: 'nan' -> '9570'. 
+Line  9575 changes: Purchase amount: '-660.56' -> '660.56'. 
+Line  9586 changes: Empty cell: Removed line.
+Line  9587 changes: Id: 'nan' -> '9587'. 
+Line  9604 changes: Name: '  Donald Clark   ' -> 'Donald Clark'. 
+Line  9611 changes: Empty cell: Removed 1 cell(s). Id: '3908' -> '9611'. 
+Line  9620 changes: Empty cell: Removed 1 cell(s). 
+Line  9621 changes: Id: '-555' -> '9621'. 
+Line  9631 changes: Id: '-461' -> '9631'. 
+Line  9641 changes: Empty cell: Removed 1 cell(s). 
+Line  9648 changes: Id: '8779' -> '9648'. 
+Line  9651 changes: Empty cell: Removed line.
+Line  9653 changes: Purchase amount: '-845.85' -> '845.85'. 
+Line  9659 changes: Empty cell: Removed line.
+Line  9665 changes: Empty cell: Removed 1 cell(s). 
+Line  9671 changes: Empty cell: Removed line.
+Line  9676 changes: Empty cell: Removed line.
+Line  9682 changes: Empty cell: Removed 1 cell(s). 
+Line  9691 changes: Purchase amount: '-491.06' -> '491.06'. 
+Line  9693 changes: Empty cell: Removed line.
+Line  9705 changes: Mail: 'kevin.wuyahoo.com' -> 'kevin.wu@yahoo.com'. 
+Line  9707 changes: Empty cell: Removed 1 cell(s). 
+Line  9709 changes: Id: 'nan' -> '9709'. 
+Line  9715 changes: Id: '' -> '9715'. 
+Line  9717 changes: Id: '' -> '9717'. 
+Line  9720 changes: Id: '4406' -> '9720'. 
+Line  9735 changes: Id: '8406' -> '9735'. 
+Line  9739 changes: Empty cell: Removed 1 cell(s). 
+Line  9740 changes: Empty cell: Removed line.
+Line  9750 changes: Empty cell: Removed 1 cell(s). 
+Line  9755 changes: Name: '  Zachary Black   ' -> 'Zachary Black'. 
+Line  9759 changes: Empty cell: Removed line.
+Line  9760 changes: Empty cell: Removed 1 cell(s). 
+Line  9766 changes: Empty cell: Removed line.
+Line  9771 changes: Empty cell: Removed 1 cell(s). 
+Line  9793 changes: Empty cell: Removed 1 cell(s). Name: '  Tracy Garcia   ' -> 'Tracy Garcia'. 
+Line  9802 changes: Id: 'nan' -> '9802'. 
+Line  9806 changes: Name: '  Kevin Gordon   ' -> 'Kevin Gordon'. 
+Line  9813 changes: Name: '  Summer Garrett   ' -> 'Summer Garrett'. 
+Line  9819 changes: Empty cell: Removed line.
+Line  9827 changes: Empty cell: Removed 1 cell(s). 
+Line  9829 changes: Empty cell: Removed 1 cell(s). 
+Line  9831 changes: Id: '-649' -> '9831'. 
+Line  9848 changes: Empty cell: Removed 1 cell(s). 
+Line  9851 changes: Empty cell: Removed 1 cell(s). 
+Line  9861 changes: Id: '9148' -> '9861'. 
+Line  9865 changes: Mail: 'connie.petersongmail.com' -> 'connie.peterson@gmail.com'. 
+Line  9866 changes: Empty cell: Removed 1 cell(s). 
+Line  9869 changes: Empty cell: Removed 1 cell(s). 
+Line  9888 changes: Empty cell: Removed 1 cell(s). 
+Line  9898 changes: Empty cell: Removed 1 cell(s). 
+Line  9907 changes: Mail: 'jon.mckenziehotmail.com' -> 'jon.mckenzie@hotmail.com'. 
+Line  9908 changes: Id: '2916' -> '9908'. 
+Line  9915 changes: Id: '2692' -> '9915'. 
+Line  9916 changes: Id: '' -> '9916'. 
+Line  9921 changes: Mail: 'amy.martinezgmail.com' -> 'amy.martinez@gmail.com'. 
+Line  9925 changes: Empty cell: Removed 1 cell(s). 
+Line  9927 changes: Empty cell: Removed line.
+Line  9936 changes: Empty cell: Removed line.
+Line  9945 changes: Name: '  Shelley Johnson   ' -> 'Shelley Johnson'. 
+Line  9951 changes: Empty cell: Removed 1 cell(s). 
+Line  9956 changes: Id: '7319' -> '9956'. 
+Line  9958 changes: Purchase amount: 'ABC123' -> ''''. 
+Line  9968 changes: Empty cell: Removed line.
+Line  9972 changes: Empty cell: Removed 1 cell(s). 
+Line  9977 changes: Purchase amount: '-484.19' -> '484.19'. 
+Line  9982 changes: Empty cell: Removed 1 cell(s). 
+Line  9983 changes: Name: '  Betty Gallegos   ' -> 'Betty Gallegos'. 
+Line  9984 changes: Id: '' -> '9984'. 
+Line  9994 changes: Empty cell: Removed 1 cell(s). 
