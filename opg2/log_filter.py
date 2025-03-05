@@ -21,7 +21,7 @@ def log_filter(
         if filter in event:
             filtered_events.append(event)
 
-    with open(path.join("opg2", f"app_log_{filter}"), "w") as filtered_file:
+    with open(path.join("opg2", f"app_log_{filter}.txt"), "w") as filtered_file:
         filtered_file.writelines(filtered_events)
 
 
