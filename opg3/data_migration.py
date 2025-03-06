@@ -3,7 +3,7 @@ import csv
 
 
 def write_row(
-    row: list[str], target_file: str, used_ids: list[int], mode: str = "a"
+    row: list[str], target_file: str, used_ids: list[str], mode: str = "a"
 ) -> None:
     try:
         with open(target_file, mode, newline="") as target_file:
@@ -12,40 +12,88 @@ def write_row(
             csv_writer = csv.writer(target_file)
             csv_writer.writerow(row)
 
-        used_ids.append(int(row[0]))
+        used_ids.append(row[0])  # Store used ids to avoid duplicates
 
     except Exception as e:
         print(f"Encountered an exception while writing to {target_file}:\n{e}\n")
         return
 
 
-def width_correction(row: list[str], expected_width: int, index: int) -> None:
-    if row.count("") >= len(row) - expected_width:
-        for _ in range(len(row) - expected_width):
-            row.remove("")
-    else:
-        print(f"Did not perform width correction on row {index}.\n{row}\n")
+def width_correction(row: list[str], expected_width: int) -> None:
+    extra_width: int = len(row) - expected_width
+    empty_cells: int = row.count("")
+
+    if min(extra_width, empty_cells) == 0:
+        return ""
+
+    old_width: int = len(row)
+    for _ in range(min(extra_width, empty_cells)):
+        row.remove("")
+    return f"Empty cell: Removed {old_width - len(row)} cell(s). "
 
 
-def id_correction(row: list[str], index: int, used_ids: list[int]) -> None:
-    if index not in used_ids:
-        row[0] = f"{index}"
-    else:
-        print(f"Did not perform index correction on row {index}.\n{row}\n")
+def id_correction(row: list[str], index: int, used_ids: list[str]) -> str:
+    if (row[0] == str(index)) or (str(index) in used_ids):
+        return ""
+
+    old_id: str = row[0]
+    row[0] = str(index)
+    return f"Id: {repr(old_id)} -> {repr(row[0])}. "
 
 
-def mail_correction(row: list[int], index: int) -> None:
-    for mail_end in ["gmail.com", "yahoo.com", "hotmail.com"]:
-        if mail_end in row[2]:
-            row[2] = row[2][: row[2].find(mail_end)] + "@" + mail_end
-            return
-    print(f"Did not perform mail correction on row {index}.\n{row}\n")
+def mail_correction(row: list[int]) -> str:
+    if row[2] == "":
+        return ""
+    if "@" in row[2]:
+        return ""
+
+    old_mail: str = row[2]
+
+    for mail_domain in ["gmail.com", "yahoo.com", "hotmail.com"]:
+        if mail_domain in row[2]:
+            row[2] = row[2][: row[2].find(mail_domain)] + "@" + mail_domain
+            return f"Mail: {repr(old_mail)} -> {repr(row[2])}. "
+
+
+def name_correction(row: list[int]) -> str:
+    change_message: str = ""
+    if row[1].startswith(" ") or row[1].endswith(" "):
+        old_name: str = row[1]
+        row[1] = row[1].strip()
+        change_message += f"Name: {repr(old_name)} -> {repr(row[1])}. "
+
+    # Name correction using mail. (different log message)
+    if (row[1] == "") and (row[2] != ""):
+        name: list[str] = row[2][: row[2].find("@")].split(".")
+        row[1] = " ".join(name).title()
+        change_message += f"Name from mail: {repr(row[1])} from {repr(row[2])}. "
+
+    return change_message
+
+
+def purchase_amount_correction(row: list[int]) -> str:
+    if row[3] == "":
+        return ""
+    if "-" not in row[3] and all(
+        character.isnumeric() for character in row[3].replace(".", "")
+    ):
+        return ""
+
+    old_purchase_amount: str = row[3]
+
+    if any(character.isalpha() for character in row[3]):
+        row[3] = ""
+
+    if "-" in row[3]:
+        row[3] = row[3].lstrip("-")
+
+    return f"Purchase amount: {repr(old_purchase_amount)} -> {repr(row[3])}. "
 
 
 def error_handling(
     row: list[str],
     index: int,
-    used_ids: list[int],
+    used_ids: list[str],
     expected_width: int,
     changes_list: list[list[str]],
 ) -> list[str]:
@@ -57,45 +105,11 @@ def error_handling(
 
     changes_made: str = f"Line {index:5} changes: "
 
-    if len(row) != expected_width:
-        old_width: int = len(row)
-        width_correction(row, expected_width, index)
-        changes_made += f"Empty cell: Removed {old_width - expected_width} cell(s). "
-
-    if row[0] != f"{index}":
-        old_id: str = row[0]
-        id_correction(row, index, used_ids)
-        changes_made += f"Id: {repr(old_id)} -> {repr(row[0])}. "
-
-    if row[1].startswith(" ") or row[1].endswith(" "):
-        old_name: str = row[1]
-        row[1] = row[1].strip()
-        changes_made += f"Name: {repr(old_name)} -> {repr(row[1])}. "
-
-    if ("@" not in row[2]) and (not row[2] == ""):
-        old_mail: str = row[2]
-        mail_correction(row, index)
-        changes_made += f"Mail: {repr(old_mail)} -> {repr(row[2])}. "
-
-    if (row[1] == "") and (row[2] != ""):
-        name: list[str] = row[2][: row[2].find("@")].split(".")
-        row[1] = " ".join(name).title()
-        changes_made += f"Name from mail: {repr(row[1])} from {repr(row[2])}. "
-
-    try:
-        purchase_amount: float = float(row[3])
-        if purchase_amount < 0:
-            old_purchase_amount: str = row[3]
-            row[3] = row[3].lstrip("-")
-            changes_made += (
-                f"Purchase amount: {repr(old_purchase_amount)} -> {repr(row[3])}. "
-            )
-    except:
-        old_purchase_amount: str = row[3]
-        row[3] = ""
-        changes_made += (
-            f"Purchase amount: {repr(old_purchase_amount)} -> '{repr(row[3])}'. "
-        )
+    changes_made += width_correction(row, expected_width)
+    changes_made += id_correction(row, index, used_ids)
+    changes_made += mail_correction(row)
+    changes_made += name_correction(row)
+    changes_made += purchase_amount_correction(row)
 
     if changes_made != f"Line {index:5} changes: ":
         changes_list.append(changes_made + "\n")
