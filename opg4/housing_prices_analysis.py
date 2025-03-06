@@ -3,8 +3,6 @@ from os import path
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-sns.set_theme()
-
 
 def inspect_dataframe(df: pd.DataFrame, head: int = 10) -> None:
     print(df.columns)
@@ -23,22 +21,16 @@ def plot_grouping(
         .reset_index()
         .pivot(index=x_axis, columns=group, values=y_axis)
     )
-    # print(grouped_df)
     grouped_df.plot(kind=plot_type, ylabel=y_axis)
     plt.show()
 
 
 if __name__ == "__main__":
+    sns.set_theme()
     housing_price: pd.DataFrame = pd.read_csv(
         path.join("Data", "DKHousingPricesSample100k.csv")
     )
     inspect_dataframe(housing_price)
     plot_grouping(housing_price, "no_rooms", "purchase_price", "region", "line")
     plot_grouping(housing_price, "house_type", "purchase_price", "region")
-    plot_grouping(
-        housing_price,
-        "quarter",
-        "sqm_price",
-        "house_type",
-        "line",
-    )
+    plot_grouping(housing_price, "quarter", "sqm_price", "house_type", "line")
