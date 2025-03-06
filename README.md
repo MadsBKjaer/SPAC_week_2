@@ -19,4 +19,5 @@ Week 2 assignment:
         Run housing_prices_analysis.py to print first 10 rows of the dataset and average price by region.
         Three different groupings are plotted.
 
-
+    Exercise Northwind Foods:
+        Run sql_connection.py to see the 3 plots made from the Northwind Foods SQL database.
