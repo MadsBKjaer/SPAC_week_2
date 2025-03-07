@@ -21,3 +21,6 @@ Week 2 assignment:
 
     Exercise Northwind Foods:
         Run sql_connection.py to see the 3 plots made from the Northwind Foods SQL database.
+
+    Exercise Wordle:
+        Run wordle.py and play by writing words of the correct length into the console. Write "I am a filthy cheater" to view correct word.
